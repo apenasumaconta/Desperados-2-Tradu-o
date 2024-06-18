@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources SYSTEM "resources.dtd">
+<resources lang="en" name="Dialogs_M03.en">
+
+<!--
+File created: 06:03:05, 17:23:32
+UNIQUE_XML_EXPORT_NUMBER: 603
+Export initiated by: nbongaerts
+-->
+
+
+  <level id="LV_03">
+    <dialog id="lv03_cs010">
+      <text id="lv03_0002_cs010_ln002" actor="Sam" mood="neutral" system="lv03_0002_cs010_ln002.wav">Está ficando tarde!
+</text>
+      <text id="lv03_0005_cs010_ln005" actor="Sanchez" mood="neutral" system="lv03_0005_cs010_ln005.wav">John disse que nós deveríamos esperar. Assim esperemos!</text>
+      <text id="lv03_0010_cs010_ln010" actor="Doc McCoy" mood="neutral" system="lv03_0010_cs010_ln010.wav">É uma maldita armadilha!</text>
+      <text id="lv03_0015_cs010_ln015" actor="Kate OHara" mood="neutral" system="lv03_0015_cs010_ln015.wav"> Estamos uma eternidade sentados aqui e não passou nada. </text>
+      <text id="lv03_0020_cs010_ln020" actor="John Cooper" mood="neutral" system="lv03_0020_cs010_ln020.wav">De outra olhada, Doc, depois nós iremos.</text>
+      <text id="lv03_0030_cs010_ln030" actor="Doc McCoy" mood="neutral" system="lv03_0030_cs010_ln030.wav">Grrrrr…</text>
+      <text id="lv03_0040_cs010_ln040" actor="Doc McCoy" mood="neutral" system="lv03_0040_cs010_ln040.wav">Eu te garanto é uma armadilha!</text>
+      <text id="lv03_0045_cs010_ln045" actor="John Cooper" mood="neutral" system="lv03_0045_cs010_ln045.wav">Maldição, Doc!</text>
+      <text id="lv03_0050_cs010_ln050" actor="Doc McCoy" mood="neutral" system="lv03_0050_cs010_ln050.wav">Veja! Indios!</text>
+      <text id="lv03_0051_cs010_ln051" actor="Kate OHara" mood="neutral" system="lv03_0051_cs010_ln051.wav">Merda!</text>
+      <text id="lv03_0052_cs010_ln052" actor="John Cooper" mood="neutral" system="lv03_0052_cs010_ln052.wav">Vamos!</text>
+      <text id="lv03_0053_cs010_ln053" actor="Doc McCoy" mood="neutral" system="lv03_0053_cs010_ln053.wav">Grrr…</text>
+      <text id="lv03_0055_cs010_ln055" actor="Kate OHara" mood="neutral" system="lv03_0055_cs010_ln055.wav">Venha! Nos esconderemos aqui!</text>
+      <text id="lv03_0060_cs010_ln060" actor="John Cooper" mood="neutral" system="lv03_0060_cs010_ln060.wav">Dê-me cobertura! Esconda-se atrás dos vagões cobertos!</text>
+      <text id="lv03_0080_cs010_ln080" actor="07ban1" mood="neutral" system="lv03_0080_cs010_ln080.wav">Uho-ohohoh!</text>
+      <text id="lv03_0090_cs010_ln090" actor="08ban2" mood="neutral" system="lv03_0090_cs010_ln090.wav">Awa-awa-ah!</text>
+      <text id="lv03_0100_cs010_ln100" actor="09ban3" mood="neutral" system="lv03_0100_cs010_ln100.wav">Ih-uhuhuhuhu!</text>
+      <text id="lv03_0110_cs010_ln110" actor="10ban4" mood="neutral" system="lv03_0110_cs010_ln110.wav">Uh-uhuhuhuhu!</text>
+      <text id="lv03_0120_cs010_ln120" actor="11ban5" mood="neutral" system="lv03_0120_cs010_ln120.wav">Uho-owowowowow</text>
+      <text id="lv03_0130_cs010_ln130" actor="12ban6" mood="neutral" system="lv03_0130_cs010_ln130.wav">Hi-ha! Hi-ha!</text>
+    </dialog>
+
+    <dialog id="lv03_cs015">
+      <text id="lv03_0272_cs015_ln010" actor="Sanchez" mood="neutral" system="lv03_0272_cs015_ln010.wav">Hua!</text>
+      <text id="lv03_0275_cs015_ln020" actor="Kate OHara" mood="neutral" system="lv03_0275_cs015_ln020.wav">Espere, Doc, tem alguns deles ainda!</text>
+      <text id="lv03_0278_cs015_ln030" actor="Doc McCoy" mood="neutral" system="lv03_0278_cs015_ln030.wav">Grrrrrrr…</text>
+    </dialog>
+
+    <dialog id="lv03_cs020">
+      <text id="lv03_0280_cs020_ln010" actor="02clar" mood="neutral" system="lv03_0280_cs020_ln010.wav">Capitão Richard Clark, sétimo regimento de cavalaria do Forte Wingate. Se você permanecer tranquilo continuará logo com sua viagem. </text>
+      <text id="lv03_0290_cs020_ln020" actor="John Cooper" mood="neutral" system="lv03_0290_cs020_ln020.wav">Se me permite, Sr. Clark, Eu gostaria de trocar umas palavras com seus prisioneiros.</text>
+      <text id="lv03_0300_cs020_ln030" actor="02clar" mood="neutral" system="lv03_0300_cs020_ln030.wav">Ahahahahah!</text>
+      <text id="lv03_0310_cs020_ln040" actor="02clar" mood="neutral" system="lv03_0310_cs020_ln040.wav">Ele tem a estrela de um Marechal no peito dele?Eu não vejo uma.</text>
+      <text id="lv03_0320_cs020_ln050" actor="02clar" mood="neutral" system="lv03_0320_cs020_ln050.wav">Ele deve ter se esquecido. O que pensas Sr. Brown?</text>
+      <text id="lv03_0330_cs020_ln060" actor="02clar" mood="neutral" system="lv03_0330_cs020_ln060.wav">Ah-ahahahahah!</text>
+      <text id="lv03_0340_cs020_ln070" actor="02clar" mood="neutral" system="lv03_0340_cs020_ln070.wav">Siga nosso cavalo, Sr. Brown! Vamos!</text>
+      <text id="lv03_0350_cs020_ln080" actor="John Cooper" mood="neutral" system="lv03_0350_cs020_ln080.wav">Isto fede a podre.</text>
+      <text id="lv03_0360_cs020_ln090" actor="John Cooper" mood="neutral" system="lv03_0360_cs020_ln090.wav">Silêncio! Tem um logo adiante!</text>
+      <text id="lv03_0370_cs020_ln100" actor="John Cooper" mood="neutral" system="lv03_0370_cs020_ln100.wav">Temos que averiguar esse Capitão. Eu quero saber tudo o que ele trama.</text>
+      <text id="lv03_0380_cs020_ln110" actor="Kate OHara" mood="neutral" system="lv03_0380_cs020_ln110.wav">Mas tenha cuidado, amigos. Se eles nos verem, amanhã a cavalaria inteira estará em nossos rastros.</text>
+      <text id="lv03_0390_cs020_ln120" actor="Doc McCoy" mood="neutral" system="lv03_0390_cs020_ln120.wav">Então será melhor não dispararmos em nenhum desses abutres!</text>
+      <text id="lv03_0400_cs020_ln130" actor="John Cooper" mood="neutral" system="lv03_0400_cs020_ln130.wav">O que devemos fazer é cercá-los e tentar entender o que eles dizem.</text>
+    </dialog>
+
+    <dialog id="lv03_cs030">
+      <text id="lv03_0580_cs030_ln010" actor="Kate OHara" mood="neutral" system="lv03_0580_cs030_ln010.wav">Lá estão eles...</text>
+      <text id="lv03_0590_cs030_ln020" actor="02clar" mood="neutral" system="lv03_0590_cs030_ln020.wav">O que temos aqui?</text>
+      <text id="lv03_0600_cs030_ln030" actor="10ban4" mood="neutral" system="lv03_0600_cs030_ln030.wav">É um desses Pele-vermelhas sujos que vivem próximo do nosso acampamento.</text>
+      <text id="lv03_0610_cs030_ln040" actor="10ban4" mood="neutral" system="lv03_0610_cs030_ln040.wav">Face de anjo quer que eu o traga para Forte Wingate. Então a guarnição pode pendurar um índio finalmente. Basta dizer que você o pegou no meio de uma emboscada.</text>
+      <text id="lv03_0620_cs030_ln050" actor="02clar" mood="neutral" system="lv03_0620_cs030_ln050.wav">Só tem um problema, Butcher. Os colonos tem que viver.</text>
+      <text id="lv03_0630_cs030_ln060" actor="10ban4" mood="neutral" system="lv03_0630_cs030_ln060.wav">Eu cuidarei disso!</text>
+      <text id="lv03_0640_cs030_ln070" actor="02clar" mood="neutral" system="lv03_0640_cs030_ln070.wav">Faça isso, Butcher, mas desta vez faça certo!</text>
+      <text id="lv03_0650_cs030_ln080" actor="02clar" mood="neutral" system="lv03_0650_cs030_ln080.wav">Sr. Brown! Cavalgaremos de volta ao forte. </text>
+      <text id="lv03_0660_cs030_ln090" actor="02clar" mood="neutral" system="lv03_0660_cs030_ln090.wav">E…ahahahah… Empacote este índio...</text>
+      <text id="lv03_0670_cs030_ln100" actor="Doc McCoy" mood="neutral" system="lv03_0670_cs030_ln100.wav">Isto é uma maldita conspiração!</text>
+      <text id="lv03_0680_cs030_ln110" actor="John Cooper" mood="neutral" system="lv03_0680_cs030_ln110.wav">E o Ross estava a caminho de entender isto...</text>
+      <text id="lv03_0690_cs030_ln120" actor="Doc McCoy" mood="neutral" system="lv03_0690_cs030_ln120.wav">Alguém deveria seguir o Clark...</text>
+      <text id="lv03_0700_cs030_ln130" actor="Kate OHara" mood="neutral" system="lv03_0700_cs030_ln130.wav">Bem, Eu também vou fazer algo útil...Roubar um cavalo...</text>
+      <text id="lv03_0710_cs030_ln140" actor="John Cooper" mood="neutral" system="lv03_0710_cs030_ln140.wav">Bom. E nós deveríamos chegar até os colonos antes dos bandidos.</text>
+      <text id="lv03_0720_cs030_ln150" actor="Doc McCoy" mood="neutral" system="lv03_0720_cs030_ln150.wav">Gr… Gr…</text>
+    </dialog>
+
+    <dialog id="lv03_cs040">
+      <text id="lv03_0800_cs040_ln010" actor="John Cooper" mood="neutral" system="lv03_0800_cs040_ln010.wav">Jogue fora sua garrafa, Sanchez, e agarre seu Gatling!</text>
+      <text id="lv03_0805_cs040_ln015" actor="Doc McCoy" mood="neutral" system="lv03_0805_cs040_ln015.wav">Grrr… grrr…</text>
+      <text id="lv03_0808_cs040_ln018" actor="Sanchez" mood="neutral" system="lv03_0808_cs040_ln018.wav">Cough… cough… cough…</text>
+      <text id="lv03_0810_cs040_ln020" actor="07ban1" mood="neutral" system="lv03_0810_cs040_ln020.wav">Uohuohuho!</text>
+      <text id="lv03_0820_cs040_ln030" actor="08ban2" mood="neutral" system="lv03_0820_cs040_ln030.wav">Awawawawaw-uh!</text>
+      <text id="lv03_0830_cs040_ln040" actor="09ban3" mood="neutral" system="lv03_0830_cs040_ln040.wav">Ih-ahhhhhhhhhh!</text>
+      <text id="lv03_0840_cs040_ln050" actor="10ban4" mood="neutral" system="lv03_0840_cs040_ln050.wav">Iahhhhh-Uowuwouwo!</text>
+      <text id="lv03_0850_cs040_ln060" actor="11ban5" mood="neutral" system="lv03_0850_cs040_ln060.wav">Uhowowowowow!</text>
+      <text id="lv03_0860_cs040_ln070" actor="12ban6" mood="neutral" system="lv03_0860_cs040_ln070.wav">Ihahhh-ihahhh-ah!</text>
+    </dialog>
+
+    <dialog id="lv03_cs050">
+      <text id="lv03_0940_cs050_ln010" actor="John Cooper" mood="neutral" system="lv03_0940_cs050_ln010.wav">Ai está... Problema resolvido!</text>
+      <text id="lv03_0950_cs050_ln020" actor="49set1" mood="neutral" system="lv03_0950_cs050_ln020.wav">Estamos salvos!</text>
+      <text id="lv03_0960_cs050_ln030" actor="50set2" mood="neutral" system="lv03_0960_cs050_ln030.wav">Graças a Deus!</text>
+      <text id="lv03_0970_cs050_ln040" actor="52sew1" mood="neutral" system="lv03_0970_cs050_ln040.wav">Estamos vivos!</text>
+      <text id="lv03_0980_cs050_ln050" actor="53sew2" mood="neutral" system="lv03_0980_cs050_ln050.wav">Soluço… sniff... soluço… sniff…</text>
+      <text id="lv03_0990_cs050_ln060" actor="50set2" mood="neutral" system="lv03_0990_cs050_ln060.wav">Você é uma pessoa boa. Nós lhe agradecemos.</text>
+      <text id="lv03_1000_cs050_ln070" actor="Doc McCoy" mood="neutral" system="lv03_1000_cs050_ln070.wav">Grrrrr…</text>
+      <text id="lv03_1010_cs050_ln080" actor="John Cooper" mood="neutral" system="lv03_1010_cs050_ln080.wav">Você pode ir sozinho a partir daqui. Meus amigos e eu cavalgaremos até o forte Wingate. Talves poderemos parar as ações más de Clark.</text>
+      <text id="lv03_1020_cs050_ln090" actor="50set2" mood="neutral" system="lv03_1020_cs050_ln090.wav">Deus proteja vocês!</text>
+      <text id="lv03_1030_cs050_ln100" actor="Doc McCoy" mood="neutral" system="lv03_1030_cs050_ln100.wav">Você também!</text>
+      <text id="lv03_1040_cs050_ln110" actor="Doc McCoy" mood="neutral" system="lv03_1040_cs050_ln110.wav">Tlk-tlk! Tlk-tlk!</text>
+    </dialog>
+
+    <dialog id="lv03_dg010">
+      <text id="lv03_0140_dg010_ln010" actor="49set1" mood="neutral" system="lv03_0140_dg010_ln010.wav">Índios!</text>
+      <text id="lv03_0150_dg010_ln020" actor="49set1" mood="neutral" system="lv03_0150_dg010_ln020.wav">Esconda-se, rápido!</text>
+      <text id="lv03_0160_dg010_ln030" actor="49set1" mood="neutral" system="lv03_0160_dg010_ln030.wav">Socorro!</text>
+      <text id="lv03_0170_dg010_ln040" actor="50set2" mood="neutral" system="lv03_0170_dg010_ln040.wav">Mesmo que eu ande pelo vale da sombra da morte, não temerei mal algum, porque Tu estás comigo. Tua vara e teu cajado me consolam...</text>
+      <text id="lv03_0180_dg010_ln050" actor="50set2" mood="neutral" system="lv03_0180_dg010_ln050.wav">Oremos!</text>
+      <text id="lv03_0190_dg010_ln060" actor="50set2" mood="neutral" system="lv03_0190_dg010_ln060.wav">Nós temos que fazer algo!</text>
+      <text id="lv03_0200_dg010_ln070" actor="52sew1" mood="neutral" system="lv03_0200_dg010_ln070.wav">Os caçadores de recompensas! Temos que ajudá los.</text>
+      <text id="lv03_0210_dg010_ln080" actor="52sew1" mood="neutral" system="lv03_0210_dg010_ln080.wav">Pai celestial, tenha piedade de nós!</text>
+      <text id="lv03_0220_dg010_ln090" actor="52sew1" mood="neutral" system="lv03_0220_dg010_ln090.wav">Oh céus! Que podemos fazer?</text>
+      <text id="lv03_0230_dg010_ln100" actor="53sew2" mood="neutral" system="lv03_0230_dg010_ln100.wav">Um ataque! É um ataque!</text>
+      <text id="lv03_0240_dg010_ln110" actor="53sew2" mood="neutral" system="lv03_0240_dg010_ln110.wav">Rápido, esconda se debaixo dos vagões!</text>
+      <text id="lv03_0250_dg010_ln120" actor="53sew2" mood="neutral" system="lv03_0250_dg010_ln120.wav">Ajuda-nos Senhor!</text>
+    </dialog>
+
+    <dialog id="lv03_dg020">
+      <text id="lv03_0260_dg020_ln010" actor="John Cooper" mood="neutral" system="lv03_0260_dg020_ln010.wav">Temos que tirar essa gente da linha de fogo! Rápido, ache uma saída deste maldito canhão!</text>
+    </dialog>
+
+    <dialog id="lv03_dg030">
+      <text id="lv03_0270_dg030_ln010" actor="John Cooper" mood="neutral" system="lv03_0270_dg030_ln010.wav">Maldição! Nós não podemos avançar por aqui. Teremos que atacar os índios!</text>
+    </dialog>
+
+    <dialog id="lv03_dg050">
+      <text id="lv03_0440_dg050_ln010" actor="22sol4" mood="neutral" system="lv03_0440_dg050_ln010.wav">Ahah… mumble… mumble… ahah… mumble… mumble… ahah…</text>
+      <text id="lv03_0450_dg050_ln020" actor="23sol5" mood="neutral" system="lv03_0450_dg050_ln020.wav">Ahah… mumble… mumble… ahah… mumble… mumble… ahah…</text>
+      <text id="lv03_0460_dg050_ln030" actor="22sol4" mood="neutral" system="lv03_0460_dg050_ln030.wav">E então ele disse. Ele tem a estrela de um marechal no peito dele? Eu não vejo uma.</text>
+      <text id="lv03_0470_dg050_ln040" actor="23sol5" mood="neutral" system="lv03_0470_dg050_ln040.wav">O que? Hahahahaha...</text>
+      <text id="lv03_0480_dg050_ln050" actor="22sol4" mood="neutral" system="lv03_0480_dg050_ln050.wav">Você deveria ter visto a cara do Cooper. Ahah! Era pura revolta...</text>
+    </dialog>
+
+    <dialog id="lv03_dg060">
+      <text id="lv03_0490_dg060_ln010" actor="08ban2" mood="neutral" system="lv03_0490_dg060_ln010.wav">Esta peruca ruim! Coça como um saco cheio de pulgas!</text>
+      <text id="lv03_0500_dg060_ln020" actor="23sol5" mood="neutral" system="lv03_0500_dg060_ln020.wav">Ainda esteje contente se coça. Seus amigos ali não tem tanta sorte.</text>
+    </dialog>
+
+    <dialog id="lv03_dg070">
+      <text id="lv03_0510_dg070_ln010" actor="Kate OHara" mood="neutral" system="lv03_0510_dg070_ln010.wav">Assim... Eles não são índios.</text>
+      <text id="lv03_0520_dg070_ln020" actor="John Cooper" mood="neutral" system="lv03_0520_dg070_ln020.wav">Hmm. Isso é um disfarce bem podre!</text>
+      <text id="lv03_0530_dg070_ln030" actor="Doc McCoy" mood="neutral" system="lv03_0530_dg070_ln030.wav">Se isso for um índio, eu tenho dois olhos!</text>
+      <text id="lv03_0535_dg070_ln040" actor="Sam" mood="neutral" system="lv03_0535_dg070_ln040.wav">Wow. Ele não é um índio. Esta usando um disfarce!</text>
+      <text id="lv03_0538_dg070_ln050" actor="Sanchez" mood="neutral" system="lv03_0538_dg070_ln050.wav">isto é uma peruca?</text>
+    </dialog>
+
+    <dialog id="lv03_dg080">
+      <text id="lv03_0540_dg080_ln010" actor="09ban3" mood="neutral" system="lv03_0540_dg080_ln010.wav">Butcher voltou. E ele trouxe um pele-vermelha maldito com ele.</text>
+      <text id="lv03_0550_dg080_ln020" actor="07ban1" mood="neutral" system="lv03_0550_dg080_ln020.wav">O que? Ele se uniu aos Indios?</text>
+      <text id="lv03_0560_dg080_ln030" actor="09ban3" mood="neutral" system="lv03_0560_dg080_ln030.wav">Idiota, estúpido! Bala de Canhão para o Clark. Eles estão se encontrando lá em cima, em outro fogo...</text>
+    </dialog>
+
+    <dialog id="lv03_dg090">
+      <text id="lv03_0570_dg090_ln010" actor="John Cooper" mood="neutral" system="lv03_0570_dg090_ln010.wav">Hmm. Eu irei dar uma olhada...</text>
+    </dialog>
+
+    <dialog id="lv03_dg100">
+      <text id="lv03_0730_dg100_ln010" actor="10ban4" mood="neutral" system="lv03_0730_dg100_ln010.wav">Guarde o uísque, homens! Há trabalho a ser feito!</text>
+      <text id="lv03_0740_dg100_ln020" actor="10ban4" mood="neutral" system="lv03_0740_dg100_ln020.wav">Pegue suas armas e venham comigo!</text>
+      <text id="lv03_0750_dg100_ln030" actor="10ban4" mood="neutral" system="lv03_0750_dg100_ln030.wav">Em pé. Está na hora de pagar os caçadores de recompensa!</text>
+    </dialog>
+
+    <dialog id="lv03_dg110">
+      <text id="lv03_0760_dg110_ln010" actor="10ban4" mood="neutral" system="lv03_0760_dg110_ln010.wav">O que é agora?</text>
+      <text id="lv03_0770_dg110_ln020" actor="07ban1" mood="neutral" system="lv03_0770_dg110_ln020.wav">Todo mundo está aqui, Butcher!</text>
+      <text id="lv03_0780_dg110_ln030" actor="10ban4" mood="neutral" system="lv03_0780_dg110_ln030.wav">Ok então, vamos!</text>
+    </dialog>
+
+    <dialog id="lv03_dg120">
+      <text id="lv03_0790_dg120_ln010" actor="John Cooper" mood="neutral" system="lv03_0790_dg120_ln010.wav">Tem muitos bandidos por aqui... Tem que haver outra forma!</text>
+    </dialog>
+
+    <dialog id="lv03_dg125">
+      <text id="lv03_0861_dg125_ln010" actor="John Cooper" mood="neutral" system="lv03_0861_dg125_ln010.wav">Separem-se! Eles estão vindo!</text>
+      <text id="lv03_0862_dg125_ln020" actor="Doc McCoy" mood="neutral" system="lv03_0862_dg125_ln020.wav">Merda! Aqui vem mais desses desgraçados!</text>
+      <text id="lv03_0863_dg125_ln030" actor="Sam" mood="neutral" system="lv03_0863_dg125_ln030.wav">Estão vindo aqui!</text>
+      <text id="lv03_0864_dg125_ln040" actor="Sanchez" mood="neutral" system="lv03_0864_dg125_ln040.wav">Yaaaa! Vocês, venham aqui seus Malditos!</text>
+    </dialog>
+
+    <dialog id="lv03_dg130">
+      <text id="lv03_0870_dg130_ln010" actor="John Cooper" mood="neutral" system="lv03_0870_dg130_ln010.wav">Maldição! Aqui está vindo mais deles!</text>
+      <text id="lv03_0880_dg130_ln020" actor="Doc McCoy" mood="neutral" system="lv03_0880_dg130_ln020.wav">(growls)... Amanhã os urubus irão fazer a festa! Veja, logo ali na frente!</text>
+      <text id="lv03_0890_dg130_ln030" actor="Sam" mood="neutral" system="lv03_0890_dg130_ln030.wav">Hey! Tem mais deles rastejando por entre as pedras!</text>
+      <text id="lv03_0900_dg130_ln040" actor="Sanchez" mood="neutral" system="lv03_0900_dg130_ln040.wav">Ah! Mais desses malditos! São todos meus!</text>
+    </dialog>
+
+    <dialog id="lv03_dg140">
+      <text id="lv03_0910_dg140_ln010" actor="Sam" mood="neutral" system="lv03_0910_dg140_ln010.wav">Esses covardes estão se escondendo atrás das pedras. Se eu tivesse uma dinamite! Seria como brincadeira de criança.</text>
+      <text id="lv03_0920_dg140_ln020" actor="49set1" mood="neutral" system="lv03_0920_dg140_ln020.wav">Você precisa de dinamite, Sam? Eu tenho alguns em meu vagão.</text>
+      <text id="lv03_0930_dg140_ln030" actor="49set1" mood="neutral" system="lv03_0930_dg140_ln030.wav">Estava guardando no caso de achar um pouco de ouro, mas não me servirá de nada se eu estiver morto.</text>
+    </dialog>
+
+    <dialog id="lv03_dg160">
+      <text id="lv03_0865_dg128_ln010" actor="John Cooper" mood="neutral" system="lv03_0865_dg128_ln010.wav">Ajude os colonos, Doc!</text>
+      <text id="lv03_0866_dg128_ln020" actor="Doc McCoy" mood="neutral" system="lv03_0866_dg128_ln020.wav">Merda! Tem feridos por toda parte!</text>
+      <text id="lv03_0867_dg128_ln030" actor="Sam" mood="neutral" system="lv03_0867_dg128_ln030.wav">Doc! Esta gente necessita de ajuda!</text>
+      <text id="lv03_0868_dg128_ln040" actor="Sanchez" mood="neutral" system="lv03_0868_dg128_ln040.wav">Doc, você cuida dos feridos. Eu cubro você!</text>
+    </dialog>
+
+  </level>
+
+</resources>

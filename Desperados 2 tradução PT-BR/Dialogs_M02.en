@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources SYSTEM "resources.dtd">
+<resources lang="en" name="Dialogs_M02.en">
+
+<!--
+File created: 06:03:05, 17:18:38
+UNIQUE_XML_EXPORT_NUMBER: 602
+Export initiated by: nbongaerts
+-->
+
+
+  <level id="LV_02">
+    <dialog id="lv02_cs010">
+      <text id="lv02_0010_cs010_ln010" actor="Doc McCoy" mood="neutral" system="lv02_0010_cs010_ln010.wav">Que inferno...?</text>
+      <text id="lv02_0020_cs010_ln020" actor="Doc McCoy" mood="neutral" system="lv02_0020_cs010_ln020.wav">Sanchez!</text>
+      <text id="lv02_0025_cs010_ln025" actor="Doc McCoy" mood="neutral" system="lv02_0025_cs010_ln025.wav">Grrr… Grrrrr…</text>
+      <text id="lv02_0060_cs010_ln060" actor="Doc McCoy" mood="neutral" system="lv02_0060_cs010_ln060.wav"> Seu Abutre podre! O que você fez a Sanchez? </text>
+      <text id="lv02_0070_cs010_ln070" actor="13out1" mood="neutral" system="lv02_0070_cs010_ln070.wav">Não...Não foi eu. Foi Rodriguez!</text>
+      <text id="lv02_0080_cs010_ln080" actor="Doc McCoy" mood="neutral" system="lv02_0080_cs010_ln080.wav">Grrr…</text>
+      <text id="lv02_0090_cs010_ln090" actor="13out1" mood="neutral" system="lv02_0090_cs010_ln090.wav">Rodriquez assumiu a fortaleza. Ele agora é o líder.</text>
+      <text id="lv02_0100_cs010_ln100" actor="Doc McCoy" mood="neutral" system="lv02_0100_cs010_ln100.wav">Maldição! E o que sabe de Sam?</text>
+      <text id="lv02_0110_cs010_ln110" actor="13out1" mood="neutral" system="lv02_0110_cs010_ln110.wav">Amigo de Sanchez? Eles o lançaram numa prisão, encima do precipício que há sobre o fortaleza. </text>
+      <text id="lv02_0120_cs010_ln120" actor="Doc McCoy" mood="neutral" system="lv02_0120_cs010_ln120.wav">Grrr…</text>
+      <text id="lv02_0130_cs010_ln130" actor="13out1" mood="neutral" system="lv02_0130_cs010_ln130.wav">Você quer libertá-los?! Só você? Esqueça você não tem nenhuma chance!</text>
+      <text id="lv02_0140_cs010_ln140" actor="Doc McCoy" mood="neutral" system="lv02_0140_cs010_ln140.wav">cale-se!</text>
+    </dialog>
+
+    <dialog id="lv02_cs020">
+      <text id="lv02_0410_cs020_ln010" actor="03rodr" mood="neutral" system="lv02_0410_cs020_ln010.wav">Onde está Sanchez?</text>
+      <text id="lv02_0420_cs020_ln020" actor="03rodr" mood="neutral" system="lv02_0420_cs020_ln020.wav">Santa Maria, mãe de Deus! Você está cego?</text>
+      <text id="lv02_0430_cs020_ln030" actor="03rodr" mood="neutral" system="lv02_0430_cs020_ln030.wav">O ache! Eu decorarei minha torre com suas tripas!</text>
+      <text id="lv02_0440_cs020_ln040" actor="Sam" mood="neutral" system="lv02_0440_cs020_ln040.wav">Oh! Enfim livre!</text>
+      <text id="lv02_0450_cs020_ln050" actor="Sanchez" mood="neutral" system="lv02_0450_cs020_ln050.wav">Santa maria mae de Deus! Vamos sair daqui!</text>
+      <text id="lv02_0460_cs020_ln060" actor="Doc McCoy" mood="neutral" system="lv02_0460_cs020_ln060.wav">Maldição!</text>
+      <text id="lv02_0470_cs020_ln070" actor="13out1" mood="neutral" system="lv02_0470_cs020_ln070.wav">Ali! Ali estão eles!</text>
+      <text id="lv02_0490_cs020_ln090" actor="13out1" mood="neutral" system="lv02_0490_cs020_ln090.wav">Boa idéia! Hahahahaha...</text>
+      <text id="lv02_0500_cs020_ln100" actor="Sam" mood="neutral" system="lv02_0500_cs020_ln100.wav">Maldição! A ponte foi ...!</text>
+      <text id="lv02_0510_cs020_ln110" actor="Sanchez" mood="neutral" system="lv02_0510_cs020_ln110.wav">Nao importa! Venha!</text>
+      <text id="lv02_0520_cs020_ln120" actor="Doc McCoy" mood="neutral" system="lv02_0520_cs020_ln120.wav">O que vai fazer, Sanchez?</text>
+      <text id="lv02_0530_cs020_ln130" actor="Sanchez" mood="neutral" system="lv02_0530_cs020_ln130.wav">Não pergunte, Doc, Vamos!</text>
+      <text id="lv02_0540_cs020_ln140" actor="Sanchez" mood="neutral" system="lv02_0540_cs020_ln140.wav">Você viu, funciona!</text>
+      <text id="lv02_0550_cs020_ln150" actor="Doc McCoy" mood="neutral" system="lv02_0550_cs020_ln150.wav">O que?</text>
+      <text id="lv02_0560_cs020_ln160" actor="Sam" mood="neutral" system="lv02_0560_cs020_ln160.wav">Sanchez, não!</text>
+      <text id="lv02_0570_cs020_ln170" actor="Sanchez" mood="neutral" system="lv02_0570_cs020_ln170.wav">Sim!</text>
+      <text id="lv02_0580_cs020_ln180" actor="Doc McCoy" mood="neutral" system="lv02_0580_cs020_ln180.wav">Meeeeeeeerda!</text>
+      <text id="lv02_0590_cs020_ln190" actor="Sam" mood="neutral" system="lv02_0590_cs020_ln190.wav">Oh Meeeeeeeerda!</text>
+      <text id="lv02_0600_cs020_ln200" actor="Sanchez" mood="neutral" system="lv02_0600_cs020_ln200.wav">Cough… cough… Onde voce esta...funcionou!</text>
+      <text id="lv02_0610_cs020_ln210" actor="Doc McCoy" mood="neutral" system="lv02_0610_cs020_ln210.wav">Grrr… Temos que sair daqui agora!</text>
+      <text id="lv02_0620_cs020_ln220" actor="Sanchez" mood="neutral" system="lv02_0620_cs020_ln220.wav">Sair daqui? Está me mandando partir,Pablo Sanchez? E minha vingança? Com ajuda ou sem, eu farei fumaça desses malditos!</text>
+    </dialog>
+
+    <dialog id="lv02_cs030">
+      <text id="lv02_0715_cs030_ln005" actor="Sanchez" mood="neutral" system="lv02_0715_cs030_ln005.wav">(laughs)</text>
+      <text id="lv02_0718_cs030_ln008" actor="Doc McCoy" mood="neutral" system="lv02_0718_cs030_ln008.wav">(snickers)</text>
+      <text id="lv02_0720_cs030_ln010" actor="Sanchez" mood="neutral" system="lv02_0720_cs030_ln010.wav">Os urubus...(laughs)...Também querem viver..</text>
+    </dialog>
+
+    <dialog id="lv02_dg010">
+      <text id="lv02_0150_dg010_ln010" actor="14out2" mood="neutral" system="lv02_0150_dg010_ln010.wav">Não sejas covarde, Fernandez!</text>
+      <text id="lv02_0160_dg010_ln020" actor="14out2" mood="neutral" system="lv02_0160_dg010_ln020.wav">Fi… fi… fi… fiii…</text>
+      <text id="lv02_0170_dg010_ln030" actor="15out3" mood="neutral" system="lv02_0170_dg010_ln030.wav">o cavalo!</text>
+      <text id="lv02_0180_dg010_ln040" actor="15out3" mood="neutral" system="lv02_0180_dg010_ln040.wav">Ah-ahiahiahiahiahiii-ahi</text>
+      <text id="lv02_0190_dg010_ln050" actor="41loli" mood="neutral" system="lv02_0190_dg010_ln050.wav">Fernandez!</text>
+      <text id="lv02_0200_dg010_ln060" actor="41loli" mood="neutral" system="lv02_0200_dg010_ln060.wav">Ah oh uh oh!</text>
+    </dialog>
+
+    <dialog id="lv02_dg020">
+      <text id="lv02_0210_dg020_ln010" actor="13out1" mood="neutral" system="lv02_0210_dg020_ln010.wav">Vamos! Mais rápido, Ramirez!</text>
+      <text id="lv02_0220_dg020_ln020" actor="13out1" mood="neutral" system="lv02_0220_dg020_ln020.wav">Yaohhh-oh-oh-ohhh!</text>
+      <text id="lv02_0230_dg020_ln030" actor="14out2" mood="neutral" system="lv02_0230_dg020_ln030.wav">Não durma, Paolo!</text>
+      <text id="lv02_0240_dg020_ln040" actor="15out3" mood="neutral" system="lv02_0240_dg020_ln040.wav">Você pode fazer isto, Ramirez!</text>
+      <text id="lv02_0250_dg020_ln050" actor="16out4" mood="neutral" system="lv02_0250_dg020_ln050.wav">Prossiga e faça, Paolo!</text>
+      <text id="lv02_0260_dg020_ln060" actor="16out4" mood="neutral" system="lv02_0260_dg020_ln060.wav">Yehhh-ahahahahhh!</text>
+      <text id="lv02_0270_dg020_ln070" actor="41loli" mood="neutral" system="lv02_0270_dg020_ln070.wav">Paolo! Venha!</text>
+      <text id="lv02_0280_dg020_ln080" actor="41loli" mood="neutral" system="lv02_0280_dg020_ln080.wav">Ramirez! Ramirez!</text>
+    </dialog>
+
+    <dialog id="lv02_dg030">
+      <text id="lv02_0290_dg030_ln010" actor="14out2" mood="neutral" system="lv02_0290_dg030_ln010.wav">Hahahahaha...Você pensa que você pode montar melhor que eu? Esqueça!</text>
+      <text id="lv02_0300_dg030_ln020" actor="15out3" mood="neutral" system="lv02_0300_dg030_ln020.wav">Ah ah… Vou provar isto a você, agora!</text>
+      <text id="lv02_0310_dg030_ln030" actor="14out2" mood="neutral" system="lv02_0310_dg030_ln030.wav">Bom, mas acredite você lamentará isto!</text>
+    </dialog>
+
+    <dialog id="lv02_dg040">
+      <text id="lv02_0320_dg040_ln010" actor="Sanchez" mood="neutral" system="lv02_0320_dg040_ln010.wav">Doc! Santa Maria, Mãe de Deus! Me tire daqui!</text>
+    </dialog>
+
+    <dialog id="lv02_dg050">
+      <text id="lv02_0330_dg050_ln010" actor="Sanchez" mood="neutral" system="lv02_0330_dg050_ln010.wav">Doc! Você não pode fazer isso! Não vá embora!</text>
+    </dialog>
+
+    <dialog id="lv02_dg060">
+      <text id="lv02_0340_dg060_ln010" actor="Doc McCoy" mood="neutral" system="lv02_0340_dg060_ln010.wav">Que merda! Sem Sanchez nada será o mesmo...</text>
+    </dialog>
+
+    <dialog id="lv02_dg070">
+      <text id="lv02_0350_dg070_ln010" actor="Sanchez" mood="neutral" system="lv02_0350_dg070_ln010.wav">Oh...Minha cabeça...Sinto como se uma mula estivesse sentado nela...</text>
+    </dialog>
+
+    <dialog id="lv02_dg080">
+      <text id="lv02_0360_dg080_ln010" actor="Sanchez" mood="neutral" system="lv02_0360_dg080_ln010.wav">Doc! Você me salvou! Me dê um abraço!</text>
+      <text id="lv02_0370_dg080_ln020" actor="Doc McCoy" mood="neutral" system="lv02_0370_dg080_ln020.wav">Grrr…</text>
+    </dialog>
+
+    <dialog id="lv02_dg090">
+      <text id="lv02_0380_dg090_ln010" actor="Sam" mood="neutral" system="lv02_0380_dg090_ln010.wav">Sanchez! Você esta livre! Me tire daqui!</text>
+    </dialog>
+
+    <dialog id="lv02_dg100">
+      <text id="lv02_0390_dg100_ln010" actor="Sam" mood="neutral" system="lv02_0390_dg100_ln010.wav">Hey Doc! Oh Doc, você foi enviado do céu!</text>
+      <text id="lv02_0400_dg100_ln020" actor="Doc McCoy" mood="neutral" system="lv02_0400_dg100_ln020.wav">Não, John!</text>
+    </dialog>
+
+    <dialog id="lv02_dg110">
+      <text id="lv02_0630_dg110_ln010" actor="13out1" mood="neutral" system="lv02_0630_dg110_ln010.wav">Se renda!</text>
+      <text id="lv02_0640_dg110_ln020" actor="14out2" mood="neutral" system="lv02_0640_dg110_ln020.wav">Saia! Você não tem nenhuma chance!</text>
+      <text id="lv02_0650_dg110_ln030" actor="15out3" mood="neutral" system="lv02_0650_dg110_ln030.wav">Se renda e suas vidas serão poupadas!</text>
+      <text id="lv02_0660_dg110_ln040" actor="16out4" mood="neutral" system="lv02_0660_dg110_ln040.wav">Chegou o momento de se render, Sanchez!</text>
+    </dialog>
+
+    <dialog id="lv02_dg120">
+      <text id="lv02_0670_dg120_ln010" actor="Sanchez" mood="neutral" system="lv02_0670_dg120_ln010.wav">Rodriquez! Rodriguez, seu porco covarde! Venha aqui! Venha aqui e lute!</text>
+      <text id="lv02_0680_dg120_ln020" actor="Sanchez" mood="neutral" system="lv02_0680_dg120_ln020.wav">Você não tem músculos? Venha aqui, Rodriguez, e lute como homem!</text>
+      <text id="lv02_0690_dg120_ln030" actor="Sanchez" mood="neutral" system="lv02_0690_dg120_ln030.wav">Você é um maldito covarde, Rodriguez, não um homem!</text>
+      <text id="lv02_0700_dg120_ln040" actor="Sanchez" mood="neutral" system="lv02_0700_dg120_ln040.wav">Só um cachorro covarde se esconderia em uma torre!</text>
+    </dialog>
+
+    <dialog id="lv02_dg130">
+      <text id="lv02_0710_dg130_ln010" actor="Sam" mood="neutral" system="lv02_0710_dg130_ln010.wav">Nós não podemos entrar assim. Mas deve haver um pouco de pólvora na fortaleza. Nós podemos usá-la para entrar na torre!</text>
+    </dialog>
+
+  </level>
+
+</resources>

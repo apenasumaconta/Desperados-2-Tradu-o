@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources SYSTEM "resources.dtd">
+<resources lang="en" name="Dialogs_M04.en">
+
+<!--
+File created: 06:03:02, 14:00:51
+UNIQUE_XML_EXPORT_NUMBER: 535
+Export initiated by: nbongaerts
+-->
+
+
+  <level id="LV_04">
+    <dialog id="lv04_cs010">
+      <text id="lv04_0120_cs010_ln050" actor="21sol3" mood="neutral" system="lv04_0120_cs010_ln050.wav">Desculpe, senhora, mas está entrando pela porta errada!</text>
+      <text id="lv04_0140_cs010_ln060" actor="21sol3" mood="neutral" system="lv04_0140_cs010_ln060.wav">Tenho que ir ao mensageiro do correio do outro lado do forte.</text>
+      <text id="lv04_0160_cs010_ln070" actor="Kate OHara" mood="neutral" system="lv04_0160_cs010_ln070.wav">Pretende me enviar de volta para a terra selvagem?</text>
+      <text id="lv04_0180_cs010_ln080" actor="21sol3" mood="neutral" system="lv04_0180_cs010_ln080.wav">Não, tem razão.</text>
+      <text id="lv04_0200_cs010_ln090" actor="21sol3" mood="neutral" system="lv04_0200_cs010_ln090.wav">Miller! Acompanhe a jovem senhora ao mensageiro do correio.</text>
+      <text id="lv04_0220_cs010_ln100" actor="20sol2" mood="neutral" system="lv04_0220_cs010_ln100.wav">Senhor, sim senhor!</text>
+      <text id="lv04_0250_cs010_ln110" actor="Kate OHara" mood="neutral" system="lv04_0250_cs010_ln110.wav">Diga-me, Sr. Miller... Isso é um índio?</text>
+      <text id="lv04_0270_cs010_ln120" actor="20sol2" mood="neutral" system="lv04_0270_cs010_ln120.wav">É o que parece, senhora.</text>
+      <text id="lv04_0370_cs010_ln150" actor="Kate OHara" mood="neutral" system="lv04_0370_cs010_ln150.wav">Pobre homem...</text>
+      <text id="lv04_0380_cs010_ln160" actor="20sol2" mood="neutral" system="lv04_0380_cs010_ln160.wav">Bufff...</text>
+      <text id="lv04_0381_cs010_ln161" actor="20sol2" mood="neutral" system="lv04_0381_cs010_ln161.wav">Não pode ser!</text>
+      <text id="lv04_0383_cs010_ln162" actor="20sol2" mood="neutral" system="lv04_0383_cs010_ln162.wav">Senhora?</text>
+      <text id="lv04_0384_cs010_ln163" actor="23sol5" mood="neutral" system="lv04_0384_cs010_ln163.wav">Fique onde está!</text>
+      <text id="lv04_0386_cs010_ln164" actor="Kate OHara" mood="neutral" system="lv04_0386_cs010_ln164.wav">Maldição!</text>
+      <text id="lv04_0388_cs010_ln165" actor="20sol2" mood="neutral" system="lv04_0388_cs010_ln165.wav">Venha comigo, senhora...</text>
+      <text id="lv04_0410_cs010_ln180" actor="Kate OHara" mood="neutral" system="lv04_0410_cs010_ln180.wav">Um pouco de encanto, um pouquinho de maquiagem e um pontapé no nariz. Então verá as estrelas, Sr. Miller!</text>
+    </dialog>
+
+    <dialog id="lv04_cs020">
+      <text id="lv04_0440_cs020_ln010" actor="Kate OHara" mood="neutral" system="lv04_0440_cs020_ln010.wav">Ei, um lá dentro!</text>
+      <text id="lv04_0445_cs020_ln020" actor="Hawkeye" mood="neutral" system="lv04_0445_cs020_ln020.wav">Mmmf...</text>
+      <text id="lv04_0471_cs020_ln021" actor="Kate OHara" mood="neutral" system="lv04_0471_cs020_ln021.wav">Maldição!</text>
+      <text id="lv04_0601_cs020_ln081" actor="Kate OHara" mood="neutral" system="lv04_0601_cs020_ln081.wav">Devo ir para ao mensageiro do correio e esperar por John.</text>
+      <text id="lv04_0620_cs020_ln090" actor="John Cooper" mood="neutral" system="lv04_0620_cs020_ln090.wav">Ele cuida dos cavalos.</text>
+      <text id="lv04_0631_cs020_ln091" actor="Kate OHara" mood="neutral" system="lv04_0631_cs020_ln091.wav">John!</text>
+      <text id="lv04_0635_cs020_ln095" actor="Doc McCoy" mood="neutral" system="lv04_0635_cs020_ln095.wav">Grrrr!</text>
+      <text id="lv04_0650_cs020_ln100" actor="Kate OHara" mood="neutral" system="lv04_0650_cs020_ln100.wav">Eu achei o índio. Está na prisão.</text>
+      <text id="lv04_0660_cs020_ln110" actor="John Cooper" mood="neutral" system="lv04_0660_cs020_ln110.wav">Você pode falar com ele?</text>
+      <text id="lv04_0680_cs020_ln120" actor="Kate OHara" mood="neutral" system="lv04_0680_cs020_ln120.wav">Impossível... Está muito ferido.</text>
+      <text id="lv04_0682_cs020_ln122" actor="Doc McCoy" mood="neutral" system="lv04_0682_cs020_ln122.wav">Maldição! Eu não curativos suficientes!</text>
+      <text id="lv04_0685_cs020_ln125" actor="Kate OHara" mood="neutral" system="lv04_0685_cs020_ln125.wav">Não tem problema, Doc. Na varanda da cabana de guarda que há na outra porta você achará o necessário!</text>
+      <text id="lv04_0688_cs020_ln128" actor="Doc McCoy" mood="neutral" system="lv04_0688_cs020_ln128.wav">Grrrr!</text>
+      <text id="lv04_0690_cs020_ln130" actor="John Cooper" mood="neutral" system="lv04_0690_cs020_ln130.wav">Entendido. Sugiro que não esperemos e que começamos já.</text>
+    </dialog>
+
+    <dialog id="lv04_cs030">
+      <text id="lv04_1650_cs030_ln010" actor="Hawkeye" mood="neutral" system="lv04_1650_cs030_ln010.wav">Quem... quem é?</text>
+      <text id="lv04_1660_cs030_ln020" actor="Doc McCoy" mood="neutral" system="lv04_1660_cs030_ln020.wav">Chsst! Falaremos mais tarde. Agora é melhor que não nos vejam!</text>
+      <text id="lv04_1670_cs030_ln025" actor="21sol3" mood="neutral" system="lv04_1670_cs030_ln025.wav">Fififiu...</text>
+      <text id="lv04_1690_cs030_ln030" actor="Kate OHara" mood="neutral" system="lv04_1690_cs030_ln030.wav">Agora!</text>
+      <text id="lv04_1730_cs030_ln040" actor="Hawkeye" mood="neutral" system="lv04_1730_cs030_ln040.wav">Homem de quem que eles dizem tem face de espírito bom e enviou-nos um mensageiro.</text>
+      <text id="lv04_1740_cs030_ln050" actor="John Cooper" mood="neutral" system="lv04_1740_cs030_ln050.wav">Se refere a Face de anjo?</text>
+      <text id="lv04_1741_cs030_ln051" actor="Hawkeye" mood="neutral" system="lv04_1741_cs030_ln051.wav">Jau!</text>
+      <text id="lv04_1760_cs030_ln060" actor="John Cooper" mood="neutral" system="lv04_1760_cs030_ln060.wav">E o Clark não lançou a carta? Será que ele deixou no bolso?</text>
+      <text id="lv04_1770_cs030_ln070" actor="Hawkeye" mood="neutral" system="lv04_1770_cs030_ln070.wav">Olho de Falcão o viu com seus próprios olhos!</text>
+      <text id="lv04_1790_cs030_ln080" actor="Doc McCoy" mood="neutral" system="lv04_1790_cs030_ln080.wav">Se encontrar-mos essa carta, teremos o Clark em nossas mãos!</text>
+      <text id="lv04_1830_cs030_ln100" actor="John Cooper" mood="neutral" system="lv04_1830_cs030_ln100.wav">Nós procuraremos no quarto de Clark. Talvez encontre-mos a carta...</text>
+      <text id="lv04_1850_cs030_ln110" actor="Hawkeye" mood="neutral" system="lv04_1850_cs030_ln110.wav">Hawkeye irá com vocês.</text>
+    </dialog>
+
+    <dialog id="lv04_cs040">
+      <text id="lv04_1940_cs040_ln010" actor="Doc McCoy" mood="neutral" system="lv04_1940_cs040_ln010.wav">Dia do pagamento!</text>
+      <text id="lv04_1945_cs040_ln015" actor="John Cooper" mood="neutral" system="lv04_1945_cs040_ln015.wav">Fififiu...</text>
+      <text id="lv04_1970_cs040_ln020" actor="John Cooper" mood="neutral" system="lv04_1970_cs040_ln020.wav">Olhe! É a mensagem que Hawkeye falou.</text>
+      <text id="lv04_1980_cs040_ln030" actor="Kate OHara" mood="neutral" system="lv04_1980_cs040_ln030.wav">Ela diz quem está por trás do nome "Face de anjo"?</text>
+      <text id="lv04_2000_cs040_ln040" actor="John Cooper" mood="neutral" system="lv04_2000_cs040_ln040.wav">Um segundo...</text>
+      <text id="lv04_2020_cs040_ln050" actor="John Cooper" mood="neutral" system="lv04_2020_cs040_ln050.wav">Abaixo tem algo impresso... Parece... uma assinatura...</text>
+      <text id="lv04_2040_cs040_ln060" actor="John Cooper" mood="neutral" system="lv04_2040_cs040_ln060.wav">Benjamin... Morgen... stern, Goodman and Son Railroad Company, Santa Fe.</text>
+      <text id="lv04_2050_cs040_ln070" actor="Doc McCoy" mood="neutral" system="lv04_2050_cs040_ln070.wav">É a coisa mais estúpida que já vi!</text>
+      <text id="lv04_2120_cs040_ln110" actor="58gnrl" mood="neutral" system="lv04_2120_cs040_ln110.wav">O que está acontecendo, senhora, o que está fazendo aqui?</text>
+      <text id="lv04_2130_cs040_ln115" actor="Doc McCoy" mood="neutral" system="lv04_2130_cs040_ln115.wav">Grrrr!</text>
+      <text id="lv04_2140_cs040_ln120" actor="58gnrl" mood="neutral" system="lv04_2140_cs040_ln120.wav">Ouça! Fique onde está ou eu chamarei os guardas!</text>
+      <text id="lv04_2160_cs040_ln130" actor="John Cooper" mood="neutral" system="lv04_2160_cs040_ln130.wav">Faça isso, General. Mas antes deveria ler isso atentamente!</text>
+      <text id="lv04_2190_cs040_ln140" actor="58gnrl" mood="neutral" system="lv04_2190_cs040_ln140.wav">Clark, miserável traidor! Você está preso!</text>
+      <text id="lv04_2210_cs040_ln150" actor="02clar" mood="neutral" system="lv04_2210_cs040_ln150.wav">Alguma vez ele levou o forte, Sr. Brown?</text>
+      <text id="lv04_2230_cs040_ln160" actor="02clar" mood="neutral" system="lv04_2230_cs040_ln160.wav">Pois bem a hora é agora...</text>
+      <text id="lv04_2240_cs040_ln165" actor="58gnrl" mood="-MOOD_MISSING-" system="lv04_2240_cs040_ln165.wav">Que...?</text>
+      <text id="lv04_2250_cs040_ln168" actor="02clar" mood="neutral" system="lv04_2250_cs040_ln168.wav">Buffff.</text>
+      <text id="lv04_2260_cs040_ln170" actor="02clar" mood="neutral" system="lv04_2260_cs040_ln170.wav">Brown, vá para a posição de nossos homens e leve o forte!</text>
+      <text id="lv04_2270_cs040_ln175" actor="22sol4" mood="neutral" system="lv04_2270_cs040_ln175.wav">Tiroteios leve.Tempo e artigos bônus são de grande valor.</text>
+      <text id="lv04_2280_cs040_ln178" actor="02clar" mood="neutral" system="lv04_2280_cs040_ln178.wav">Argh!</text>
+      <text id="lv04_2290_cs040_ln180" actor="John Cooper" mood="neutral" system="lv04_2290_cs040_ln180.wav">Traga aqui, Sanchez. Nós temos que evitar os homens deles para levar o forte...</text>
+    </dialog>
+
+    <dialog id="lv04_cs050">
+      <text id="lv04_2350_cs050_ln020" actor="58gnrl" mood="neutral" system="lv04_2350_cs050_ln020.wav">Tire esse traidor da minha frente!</text>
+      <text id="lv04_2360_cs050_ln030" actor="20sol2" mood="neutral" system="lv04_2360_cs050_ln030.wav">Será um grande prazer, senhor!</text>
+      <text id="lv04_2370_cs050_ln035" actor="02clar" mood="neutral" system="lv04_2370_cs050_ln035.wav">Buffff.</text>
+      <text id="lv04_2380_cs050_ln038" actor="58gnrl" mood="neutral" system="lv04_2380_cs050_ln038.wav">Ha, ha, ha.</text>
+      <text id="lv04_2390_cs050_ln040" actor="58gnrl" mood="neutral" system="lv04_2390_cs050_ln040.wav">Obrigado! Sem sua ajuda, isso teria terminado muito mal!</text>
+      <text id="lv04_2430_cs050_ln060" actor="58gnrl" mood="neutral" system="lv04_2430_cs050_ln060.wav">O que planejam fazer agora?</text>
+      <text id="lv04_2450_cs050_ln070" actor="John Cooper" mood="neutral" system="lv04_2450_cs050_ln070.wav">Cavalgaremos até Santa Fé e tentaremos enfrentar Face de anjo. Graças a carta que estava com Clark, não será difícil encontrá-lo.</text>
+      <text id="lv04_2460_cs050_ln080" actor="58gnrl" mood="neutral" system="lv04_2460_cs050_ln080.wav">Bom, Sr. Cooper, eu lhes desejo toda a sorte do mundo!</text>
+      <text id="lv04_2470_cs050_ln085" actor="21sol3" mood="neutral" system="lv04_2470_cs050_ln085.wav">Aaaaah...</text>
+      <text id="lv04_2490_cs050_ln090" actor="21sol3" mood="neutral" system="lv04_2490_cs050_ln090.wav">Que mulher!!!</text>
+    </dialog>
+
+    <dialog id="lv04_dg002">
+      <text id="lv04_0420_dg002_ln010" actor="20sol2" mood="neutral" system="lv04_0420_dg002_ln010.wav">Senhora! Tenho que pedir que me acompanhe!</text>
+    </dialog>
+
+    <dialog id="lv04_dg005">
+      <text id="lv04_0425_dg005_ln010" actor="20sol2" mood="neutral" system="lv04_0425_dg005_ln010.wav">Venha comigo, ou terei que fazer isso a força!</text>
+    </dialog>
+
+    <dialog id="lv04_dg008">
+      <text id="lv04_0430_dg008_ln010" actor="Kate OHara" mood="neutral" system="lv04_0430_dg008_ln010.wav">Este sujeito esta me aborrecendo! Terei que me livrar dele...</text>
+    </dialog>
+
+    <dialog id="lv04_dg020">
+      <text id="lv04_0840_dg020_ln010" actor="43barm" mood="neutral" system="lv04_0840_dg020_ln010.wav">Ei, você! Você não pode estar atrás das grades!</text>
+    </dialog>
+
+    <dialog id="lv04_dg040">
+      <text id="lv04_0890_dg040_ln010" actor="20sol2" mood="neutral" system="lv04_0890_dg040_ln010.wav">Alto! Não é permitida a entrada de civis na zona militar do forte! Para trás!</text>
+    </dialog>
+
+    <dialog id="lv04_dg050">
+      <text id="lv04_0920_dg050_ln010" actor="22sol4" mood="neutral" system="lv04_0920_dg050_ln010.wav">Hmm... Que? Ah, é você...</text>
+      <text id="lv04_0930_dg050_ln020" actor="19sol1" mood="neutral" system="lv04_0930_dg050_ln020.wav">O sargento está com muita raiva. Consigo ouvir seus gritos do lado de fora do forte!</text>
+      <text id="lv04_0950_dg050_ln030" actor="22sol4" mood="neutral" system="lv04_0950_dg050_ln030.wav">Espera que um dos novatos saia da fila...</text>
+      <text id="lv04_0970_dg050_ln040" actor="19sol1" mood="neutral" system="lv04_0970_dg050_ln040.wav">E então começará a matança!</text>
+      <text id="lv04_0975_dg050_ln045" actor="19sol1" mood="neutral" system="lv04_0975_dg050_ln045.wav">ha, ha, ha.</text>
+      <text id="lv04_0980_dg050_ln048" actor="22sol4" mood="neutral" system="lv04_0980_dg050_ln048.wav">Ha, ha, ha.</text>
+      <text id="lv04_0990_dg050_ln050" actor="19sol1" mood="neutral" system="lv04_0990_dg050_ln050.wav">Tenho que ir. Nos vemos mais tarde.</text>
+      <text id="lv04_1000_dg050_ln060" actor="22sol4" mood="neutral" system="lv04_1000_dg050_ln060.wav">Até logo.</text>
+    </dialog>
+
+    <dialog id="lv04_dg060">
+      <text id="lv04_1030_dg060_ln010" actor="20sol2" mood="neutral" system="lv04_1030_dg060_ln010.wav">E bem? Que há de novo?</text>
+      <text id="lv04_1040_dg060_ln020" actor="23sol5" mood="neutral" system="lv04_1040_dg060_ln020.wav">Clark saiu vivo de uma emboscada e capturou o filho de um chefe índio. Eles vão o pendurá-lo hoje.</text>
+      <text id="lv04_1050_dg060_ln030" actor="20sol2" mood="neutral" system="lv04_1050_dg060_ln030.wav">Pobre bastardo.</text>
+      <text id="lv04_1070_dg060_ln040" actor="23sol5" mood="neutral" system="lv04_1070_dg060_ln040.wav">O dever me chama, amigo, tenho que ir...</text>
+      <text id="lv04_1090_dg060_ln050" actor="20sol2" mood="neutral" system="lv04_1090_dg060_ln050.wav">Se souber de algo, me avise...</text>
+    </dialog>
+
+    <dialog id="lv04_dg070">
+      <text id="lv04_1120_dg070_ln010" actor="22sol4" mood="neutral" system="lv04_1120_dg070_ln010.wav">Oh, outra vez de guarda? Ontem eu senti falta de você.</text>
+      <text id="lv04_1140_dg070_ln020" actor="19sol1" mood="neutral" system="lv04_1140_dg070_ln020.wav">Tive que levar um recado para o general. Eu perdi algo?</text>
+      <text id="lv04_1160_dg070_ln030" actor="22sol4" mood="neutral" system="lv04_1160_dg070_ln030.wav">Eu quero para mim...</text>
+      <text id="lv04_1180_dg070_ln040" actor="22sol4" mood="neutral" system="lv04_1180_dg070_ln040.wav">Os que estavam de guarda ontem deixou escapar um cavalo. Os gritos de raiva do sargento assustou até mesmo ele, ele começou a galopar como a alma que o diabo leva e saiu pela porta aberta.</text>
+      <text id="lv04_1190_dg070_ln045" actor="19sol1" mood="neutral" system="lv04_1190_dg070_ln045.wav">Ha, ha, ha.</text>
+      <text id="lv04_1200_dg070_ln050" actor="22sol4" mood="neutral" system="lv04_1200_dg070_ln050.wav">Um caos! O forte inteiro saiu para capturar o cavalo.</text>
+      <text id="lv04_1220_dg070_ln060" actor="19sol1" mood="neutral" system="lv04_1220_dg070_ln060.wav">Bom, isso não acontecerá conosco...</text>
+      <text id="lv04_1230_dg070_ln070" actor="22sol4" mood="neutral" system="lv04_1230_dg070_ln070.wav">Não, acredito que não...</text>
+    </dialog>
+
+    <dialog id="lv04_dg080">
+      <text id="lv04_1250_dg080_ln010" actor="20sol2" mood="neutral" system="lv04_1250_dg080_ln010.wav">Atencão!</text>
+      <text id="lv04_1260_dg080_ln020" actor="20sol2" mood="neutral" system="lv04_1260_dg080_ln020.wav">Direita!</text>
+      <text id="lv04_1270_dg080_ln030" actor="20sol2" mood="neutral" system="lv04_1270_dg080_ln030.wav">Esquerda!</text>
+      <text id="lv04_1280_dg080_ln040" actor="20sol2" mood="neutral" system="lv04_1280_dg080_ln040.wav">Olhando pra frente!</text>
+      <text id="lv04_1290_dg080_ln050" actor="20sol2" mood="neutral" system="lv04_1290_dg080_ln050.wav">Marchando!</text>
+      <text id="lv04_1300_dg080_ln060" actor="20sol2" mood="neutral" system="lv04_1300_dg080_ln060.wav">Companhia... alto!</text>
+      <text id="lv04_1310_dg080_ln070" actor="20sol2" mood="neutral" system="lv04_1310_dg080_ln070.wav">Apresentar armas!</text>
+      <text id="lv04_1320_dg080_ln080" actor="20sol2" mood="neutral" system="lv04_1320_dg080_ln080.wav">Um, dois, três, quatro, esquerda, dois, três, quatro, esquerda, dois, três, quatro.</text>
+      <text id="lv04_1330_dg080_ln090" actor="20sol2" mood="neutral" system="lv04_1330_dg080_ln090.wav">Você parece um pinto abandonado procurando a mamãe galinha!
+</text>
+      <text id="lv04_1340_dg080_ln100" actor="20sol2" mood="neutral" system="lv04_1340_dg080_ln100.wav">É isso que você chama de marchar?</text>
+      <text id="lv04_1350_dg080_ln110" actor="20sol2" mood="neutral" system="lv04_1350_dg080_ln110.wav">Vou ferrar vocês.</text>
+      <text id="lv04_1355_dg080_ln120" actor="20sol2" mood="neutral" system="lv04_1355_dg080_ln120.wav">Comprimentem!</text>
+      <text id="lv04_1360_dg080_ln130" actor="20sol2" mood="neutral" system="lv04_1360_dg080_ln130.wav">Vamos, cachorros sarnentos!</text>
+    </dialog>
+
+    <dialog id="lv04_dg100">
+      <text id="lv04_1510_dg100_ln010" actor="19sol1" mood="neutral" system="lv04_1510_dg100_ln010.wav">Maldição! Os cavalos! Pare-os!</text>
+    </dialog>
+
+    <dialog id="lv04_dg220">
+      <text id="lv04_2600_dg220_ln010" actor="19sol1" mood="neutral" system="lv04_2600_dg220_ln010.wav">Foram trazidos com o mensageiro de correio!</text>
+      <text id="lv04_2610_dg220_ln020" actor="19sol1" mood="neutral" system="lv04_2610_dg220_ln020.wav">O capitão Joyce! Ele está sendo feito refém!</text>
+      <text id="lv04_2620_dg220_ln030" actor="19sol1" mood="neutral" system="lv04_2620_dg220_ln030.wav">Para a prisão! Eles capturaram os oficiais!</text>
+      <text id="lv04_2630_dg220_ln040" actor="19sol1" mood="neutral" system="lv04_2630_dg220_ln040.wav">Levaram a ponte!</text>
+      <text id="lv04_2640_dg220_ln050" actor="19sol1" mood="neutral" system="lv04_2640_dg220_ln050.wav">Temos que ajudar nossos homens a sair fora!</text>
+      <text id="lv04_2650_dg220_ln060" actor="20sol2" mood="neutral" system="lv04_2650_dg220_ln060.wav">Em frente! Para o mensageiro do correio!</text>
+      <text id="lv04_2660_dg220_ln070" actor="20sol2" mood="neutral" system="lv04_2660_dg220_ln070.wav">Droga! Não podemos chegar até Joyce!</text>
+      <text id="lv04_2670_dg220_ln080" actor="20sol2" mood="neutral" system="lv04_2670_dg220_ln080.wav">Merda! Onde estão os oficiais?</text>
+      <text id="lv04_2680_dg220_ln090" actor="20sol2" mood="neutral" system="lv04_2680_dg220_ln090.wav">Reagrupe, droga, reagrupe!</text>
+      <text id="lv04_2690_dg220_ln100" actor="20sol2" mood="neutral" system="lv04_2690_dg220_ln100.wav">Nossos homens estão cercados! Nós temos que os salvar!</text>
+    </dialog>
+
+  </level>
+
+</resources>

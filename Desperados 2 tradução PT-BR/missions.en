@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources SYSTEM "resources.dtd">
+<resources lang="en" name="missions.en">
+
+<!--
+File created: 06:03:23, 18:22:45
+UNIQUE_XML_EXPORT_NUMBER: 857
+Export initiated by: nbongaerts
+-->
+
+  <text id="lvl01_mis01_quest00_name">I. 1 Onde está Dillon?</text>
+  <text id="lvl01_mis01_quest00_text">Cooper e Kate estão seguindo o rastro de Dillon, um bandido procurado. Encontre Dillon e prenda-o. Mas cuidado, ele não está só!</text>
+  <text id="lvl01_mis01_quest01_name">&quot;Kate em apuros&quot;</text>
+  <text id="lvl01_mis01_quest01_text">Enquanto Cooper e Kate buscam Dillon, um bêbado está incomodando Kate. Providencie que Cooper o faça dormir com um bom gancho de direita!</text>
+  <text id="lvl01_mis01_quest02_name">&quot;Maquiagem para a dama&quot;</text>
+  <text id="lvl01_mis01_quest02_text">O dono do estande de tiros não viu Dillon, mas promete a Cooper um estojo de maquiagem para Kate se conseguir acertar todas as 6 latas. Kate está excitada. Cooper odeia disparar contra latas, mas como ignorar o desejo de Kate? Então venha, vou ganhar o prêmio!</text>
+  <text id="lvl01_mis01_quest03_name">&quot;Maddog&quot;</text>
+  <text id="lvl01_mis01_quest03_text">Dillon está em um dos apartamentos para convidados no primeiro andar. Para chegar até ele, terá que livrar-se de Maddog, um dos guarda-costas de Dillon, que vigia o bar. Não chame sua atenção! Será melhor que uses a faca que está no chão. </text>
+  <text id="lvl01_mis01_quest04_name">&quot;O que fazer com o corpo de Maddog?&quot;</text>
+  <text id="lvl01_mis01_quest04_text">Um cadáver no meio do saloon levantará suspeitas. Será melhor que desapareça! Carregue o corpo de Maddog nos ombros de Cooper e esconda fora em um lugar escuro, em frente ao saloon. Preste atenção em Kate. Ela te indicará um bom esconderijo.</text>
+  <text id="lvl01_mis01_quest05_name">&quot;O segundo guarda-costa&quot;</text>
+  <text id="lvl01_mis01_quest05_text">A ausência de Maddog foi notada. Um segundo guarda-costa desceu ao bar para procurá-lo. Faça Kate o distrair para que Cooper o pegue mais fácil. </text>
+  <text id="lvl01_mis01_quest06_name">&quot;Os homems do primeiro andar&quot;</text>
+  <text id="lvl01_mis01_quest06_text">Suba pela escada com Cooper e Kate e derrote os homems que vigiam o primeiro andar. Mas faça com cautela para pegar Dillon de surpresa.</text>
+  <text id="lvl01_mis01_quest07_name">&quot;A prisão de Dillon&quot;</text>
+  <text id="lvl01_mis01_quest07_text">Dillon, que não suspeita de nada, está só. Entre em seu apartamento e deixe-o fora de combate. Mande Kate amarrá-lo.</text>
+  <text id="lvl01_mis02_quest00_name">I. 2 Um Agente Federal em apuros</text>
+  <text id="lvl01_mis02_quest00_text">O irmão de Cooper, o Agente Federal Ross Cooper, se encontra em um estábulo fora da cidade. Alguns indesejáveis bandoleiros estão vigiando o lugar. Parece que o irmão de Cooper vai  ter muito problemas. Abra caminho para ajudá-lo!</text>
+  <text id="lvl01_mis02_quest01_name">&quot;O gás da Cabana&quot;</text>
+  <text id="lvl01_mis02_quest01_text">Em um canto da cabana, a esquerda de estábulo, tem alguns potes de gás. Pegue-os e use-os contra os bandidos que estão em frente ao estábulo.</text>
+  <text id="lvl01_mis02_quest02_name">&quot;Pessoas indesejáveis&quot;</text>
+  <text id="lvl01_mis02_quest02_text">Para ajudar ao irmão de Cooper, primeiro você tem que derrotar os bandidos que protegem o estábulo. Derrote eles e faça com que Cooper entre no estábulo. </text>
+  <text id="lvl02_mis01_quest00_name">II. 1 Problema no Ninho da Águia</text>
+  <text id="lvl02_mis01_quest00_text">Sanchez foi derrotado por Rodríguez, seu arqui-rival, e agora está amarrado de cabeça para baixo na torre principal do forte. Todos seus homens passaram para o bando de Rodríguez. Sam está preso no cárcere. Você deve entrar no forte e libertar Sam e Sánchez. </text>
+  <text id="lvl02_mis01_quest01_name">&quot;Entrar no forte&quot;</text>
+  <text id="lvl02_mis01_quest01_text">Faça com que Doc entre no forte para libertar Sam e Sánchez. Por desgraça, a porta está bloqueada e somente se pode abrir de dentro, assim terás que pensar em algo. Encontre uma forma de entrar!</text>
+  <text id="lvl02_mis01_quest02_name">&quot;Sánchez está na torre&quot;</text>
+  <text id="lvl02_mis01_quest02_text">Sanchez tem a cabeça completamente roxa. Você tem que tirar ele desta incomoda situacão o quanto antes. Faça com que Doc se aproxime pela torre, ou busque um bom lugar desde que possa cortar a corda que prende Sánchez. Faça como quisser, mas liberte-o!</text>
+  <text id="lvl02_mis01_quest03_name">&quot;Sam está na cela&quot;</text>
+  <text id="lvl02_mis01_quest03_text">Os homens de Rodríguez tem o Sam em uma cela de parede rochosa que fica sobre o forte. Faça com que Doc se dirija até a cela e faça força sobre a fechadura da cela. </text>
+  <text id="lvl02_mis02_quest00_name">II. 2 Sánchez, o roxo</text>
+  <text id="lvl02_mis02_quest00_text">Doc, Sam e Sánchez conseguiram sobreviver ao salto do precipício. Mas sua ajuda foi detectada. Os homems de Rodríguez rodearam a casa que vocês estão. Lute para alcançar sua liberdade! </text>
+  <text id="lvl02_mis02_quest01_name">&quot;Vingança ao estilo Mexicano&quot;</text>
+  <text id="lvl02_mis02_quest01_text">Sánchez não quer ir ao forte sem vingar-se de Rodríguez. Entre na torre onde Rodríguez esta escondido e ensine a ele quem manda em Eagle's Nest!</text>
+  <text id="lvl03_mis01_quest00_name">III. 1. O passo estreito</text>
+  <text id="lvl03_mis01_quest00_text">Com a esperança de averiguar quem matou seu irmão, Cooper escolta um grupo de colonos que cruzam território índígena. Seus amigos o acompanham. Em um passo estreito, os índios atacam. Defenda os colonos e derrote todos os índios!</text>
+  <text id="lvl03_mis01_quest01_name">&quot;Colonos em apuros&quot;</text>
+  <text id="lvl03_mis01_quest01_text">Cooper e seus amigos prometeram proteger os colonos. Nem mesmo o diabo fará com que quebrem sua promessa. Assim, não deixe que nenhum colono morra!</text>
+  <text id="lvl03_mis01_quest02_name">&quot;Temos que sair daquí!&quot;</text>
+  <text id="lvl03_mis01_quest02_text">Os troncos das árvores bloqueiam o passo das carretas. Por sorte, há uma rota que passa através de uma garganta a um acampamento velho e logo volta ao caminho. Uma avalanche bloqueou a entrada da garganta mas, por sorte, contas com Sam. Mande para os ares os obstáculos!</text>
+  <text id="lvl03_mis01_quest03_name">&quot;A saida está bloqueada!&quot;</text>
+  <text id="lvl03_mis01_quest03_text">Os índios tomaram posições tanto nos lados esquerdo como no direito do barranco da saída da garganta. Derrote os índios para que as carretas possam passar.</text>
+  <text id="lvl03_mis02_quest00_name">III. 2a Mascarada</text>
+  <text id="lvl03_mis02_quest00_text">Cooper, Kate e Doc seguem o Capitão Richard Clark e seus homens até seu acampamento. Cooper quer saber o que Clark está tramando. Aproxime-se silenciosamente da fogueira central do acampamento. Evite que os soldados te detectem!</text>
+  <text id="lvl03_mis02_quest01_name">&quot;Entre os soldados&quot;</text>
+  <text id="lvl03_mis02_quest01_text">Cooper e seus amigos sabem muito pouco sobre esses soldados. São bons homems ou são uns canalhas? Cooper não quer machucar nenhum inocente nem enfrentar os militares. Assim, evite que te descubram, nem mate ninguém!</text>
+  <text id="lvl03_mis02_quest02_name">&quot;O soldado e o índio&quot;</text>
+  <text id="lvl03_mis02_quest02_text">Um soldado e um índio estão conversando em frente de uma cabine pequena. Escute o que eles estão falando!</text>
+  <text id="lvl03_mis02_quest03_name">&quot;Noticias de Butcher&quot;</text>
+  <text id="lvl03_mis02_quest03_text">Tem dois bandidos junto a um barranco. Aproxime-se silenciosamente deles e escute o que eles estão falando. </text>
+  <text id="lvl03_mis02_quest04_name">&quot;Hawkeye&quot;</text>
+  <text id="lvl03_mis02_quest04_text">Na fogueira central do acampamento, Clark fala com um homem chamado Butcher. Um prisioneiro índio está com eles. Escute sua conversa, mas tome cuidado e tenha certeza de passar desapercebido!</text>
+  <text id="lvl03_mis02_quest05_name">&quot;A porta de pedra&quot;</text>
+  <text id="lvl03_mis02_quest05_text">Kate persegue Clark e os seus. Doc e Cooper ficam atrás para avisar os outros do ataque dos bandidos. Butcher reúne seus homens e os leva a um barranco que conduz ao acampamento dos colonos. Agora que os soldados se foram, Cooper e Doc não tem que conter-se!</text>
+  <text id="lvl03_mis03_quest00_name">III. 2b O encontro</text>
+  <text id="lvl03_mis03_quest00_text">Cooper, Kate e Doc seguem o capitão Richard Clark e seus homems até seu acampamento. Cooper quer saber o que Clark está tramando . Averigue onde Clark está e aproxime-se silenciosamente. Mas tenha cuidado, que os soldados não percebam tua presença!</text>
+  <text id="lvl03_mis03_quest01_name">&quot;Entre os soldados&quot;</text>
+  <text id="lvl03_mis03_quest01_text">Cooper e seus amigos sabem muito pouco sobre esses soldados. São bons homems ou são uns canalhas? Cooper não quer machucar nenhum inocente nem enfrentar os militares. Assim, evite que te descubram, nem mate ninguém!</text>
+  <text id="lvl03_mis03_quest02_name">&quot;O soldado e o índio&quot;</text>
+  <text id="lvl03_mis03_quest02_text">Um soldado e um índio estão conversando em frente de uma cabine pequena. Escute o que eles estão falando!!</text>
+  <text id="lvl03_mis03_quest03_name">&quot;Noticias de Butcher&quot;</text>
+  <text id="lvl03_mis03_quest03_text">Tem dois bandidos junto a um barranco. Aproxime-se silenciosamente deles e escute o que eles estão falando. </text>
+  <text id="lvl03_mis03_quest04_name">&quot;Hawkeye&quot;</text>
+  <text id="lvl03_mis03_quest04_text">Na fogueira central do acampamento, Clark fala com um homem chamado Butcher. Um prisioneiro índio está com eles. </text>
+  <text id="lvl03_mis03_quest05_name">&quot;A porta de pedra&quot;</text>
+  <text id="lvl03_mis03_quest05_text">Kate persegue Clark e os seus. Doc e Cooper ficam atrás para avisar os outros do ataque dos bandidos. Butcher reúne seus homens e os leva a um barranco que conduz ao acampamento dos colonos. Agora que os soldados se foram, Cooper e Doc não tem que conter-se!</text>
+  <text id="lvl03_mis04_quest00_name">III. 3 Proteja os colonos</text>
+  <text id="lvl03_mis04_quest00_text">Cooper e Doc chegaram ao acampamento dos colonos bem a tempo. Gritos de guerra dos índios podem ouvir-se a distância. Uma onda de bandidos montados estão atacando o acampamento.Pare os ataques!</text>
+  <text id="lvl03_mis04_quest01_name">&quot;¡Protege a os colonos!&quot;</text>
+  <text id="lvl03_mis04_quest01_text">Os bandidos querem acabar com os colonos. ¡Evite que consigam! Lembre-se, não pode morrer nenhum colono. ¡Use Doc para curar a os colonos entre as ondas de ataque!</text>
+  <text id="lvl03_mis04_quest02_name">&quot;O brinquedo de Sánchez&quot;</text>
+  <text id="lvl03_mis04_quest02_text">É difícil derrubar os bandidos quando cavalgam a galope, mas Sánchez tem uma carta na manga: sua Gatling. ¡Úse para defender o acampamento dos colonos!</text>
+  <text id="lvl04_mis01_quest00_name">IV. 1 O prisioneiro</text>
+  <text id="lvl04_mis01_quest00_text">O sargento Miller vai escoltar Kate pela area cívil do forte. Mas Kate tem outros planos, ela quer entrar na prisão onde ela possa falar com Hawkeye, o índio capturado,.</text>
+  <text id="lvl04_mis01_quest01_name">&quot;Senhor Miller&quot;</text>
+  <text id="lvl04_mis01_quest01_text">Miller não se afasta de Kate, livre-se de sua companhia se quiser chegar a prisão. O seduza, leve-o para um canto escuro e o derrube.</text>
+  <text id="lvl04_mis01_quest02_name">&quot;Pôquer com os Soldados&quot;</text>
+  <text id="lvl04_mis01_quest02_text">Agora que Kate se livrou de Miller, poderá entrar na prisão. ¿O que está esperando? ¡Visite Hawkeye em sua cela e fale com ele! ¡Mas lembre-se você não pode matar nenhum soldado nem deixar qualquer um soar o alarme!</text>
+  <text id="lvl04_mis02_quest00_name">IV. 2 Resgate de Hawkeye</text>
+  <text id="lvl04_mis02_quest00_text">Cooper e os outros chegaram ao forte. Talvez ainda há uma chance de falar com o índio. ¡Infiltre-se no forte e arrombe a prisão novamente! ¡Mas não se esqueça, você não pode matar nenhum soldado ou deixar qualquer um soar o alarme!</text>
+  <text id="lvl04_mis02_quest01_name">&quot;Bandagens&quot;</text>
+  <text id="lvl04_mis02_quest01_text">Antes que Cooper e seus amigos vá falar com Hawkeye, Doc deve cuidar de suas feridas. Infelizmente Doc não tem nenhuma bandagem com ele. ¡Roube a bolsa do doutor na sala de estar dos oficiais pelo portão principal!</text>
+  <text id="lvl04_mis02_quest02_name">&quot;Dentro da Prisão&quot;</text>
+  <text id="lvl04_mis02_quest02_text">Clark está planejando pendurar Hawkeye para colocar os índios contra os colonos. Cooper e seus amigos querem impedir. ¡Resgate o índio da prisão! ¿Você tem gás? Então, use para criar uma confusão e tirar os cavalos dos estábulos.</text>
+  <text id="lvl04_mis03_quest00_name">IV. 3 Quartel General</text>
+  <text id="lvl04_mis03_quest00_text">Hawkeye viu Clark receber uma carta de Face de Anjo. Cooper e os amigos dele planejam arrombar o escritório de Clark, no forte interno, assim eles podem procurar a carta.</text>
+  <text id="lvl04_mis03_quest01_name">&quot;Uma carta esclarecedora&quot;</text>
+  <text id="lvl04_mis03_quest01_text">¡Ache um modo de se infiltrar no forte interno e entrar no escritório de Clark, assim você pode pegar a carta de Face de Anjo e os outros documentos que são evidência contra Clark! Mas você ainda não pode matar nenhum soldado ou pode permitir que qualquer um soe o alarme!</text>
+  <text id="lvl04_mis04_quest00_name">IV. 4 A revolta</text>
+  <text id="lvl04_mis04_quest00_text">Cooper e seus amigos tem Clark em suas mãos, mas os homens de Clark estão a caminho de assumir o forte. ¡ Ajude os soldados leais ao general a recuperar o forte completando três objetivos da missão! </text>
+  <text id="lvl04_mis04_quest01_name">&quot;Reféns nos correios&quot;</text>
+  <text id="lvl04_mis04_quest01_text">Os homems de Clark levaram os reféns civis para a estação dos correios e ameaçam matá-los. ¡Liberte os reféns!</text>
+  <text id="lvl04_mis04_quest02_name">&quot;Lute para os Quartéis&quot;</text>
+  <text id="lvl04_mis04_quest02_text">Alguns dos soldados leais ao General estão nos quartéis e estão sendo atacados pelos homems de Clark. ¡Pare os ataques e traga os homens em segurança!</text>
+  <text id="lvl04_mis04_quest03_name">&quot;A cabeça de ponte&quot;</text>
+  <text id="lvl04_mis04_quest03_text">Os homens de Clark se fortificaram em frente ao portão principal,e de lá eles podem controlar o centro do forte. Os tire, ou destrua a cabeça da ponte explodindo a torre do relógio.</text>
+  <text id="lvl04_mis04_quest04_name">&quot;Os Oficiais Capturados&quot;</text>
+  <text id="lvl04_mis04_quest04_text">Todos os oficiais leais ao General estão sendo mantidos prisioneiros pelos homens de Clark. ¡Arrombe a prisão e liberte os os oficiais!</text>
+  <text id="lvl04_mis04_quest05_name">&quot;¡Rendição!&quot;</text>
+  <text id="lvl04_mis04_quest05_text">Force os homens de Clark em um canto e os faça largar as armas. Os soldados leais ao General começarão lutando a seu lado assim que você libertár os oficiais da prisão.</text>
+  <text id="lvl04_mis04_quest06_name">&quot;O Refém&quot;</text>
+  <text id="lvl04_mis04_quest06_text">Os homems de Clark levaram o capitão James Joyce como refém e ameaçam mata-lo se alguém se aproximar do portão principal do forte. Salve o capitão e tome o resto do forte.</text>
+  <text id="lvl05_mis01_quest00_name">V. 1 O livro caixa de Goodman</text>
+  <text id="lvl05_mis01_quest00_text">Cooper descobriu finalmente o que Face de Anjo é: Se trata de Lester Lloyd Goodman Jr, o chefe da companhia Goodman &amp; Son Railroad Company. Mas sem provas Cooper não poderá prendê-lo. Encontre provas contra Goodman sem que o xerife seja alertado.</text>
+  <text id="lvl05_mis01_quest01_name">&quot;O Quebra-cabeça dos Secretários&quot;</text>
+  <text id="lvl05_mis01_quest01_text">As provas contra Goodman pode ser achada nos livros de conta do Goodman &amp; Son Railroad Company. Goodman dividiu a conta reserva entre os três secretários dele que se encontram regularmente no escritório do xerife. Capture todos os três secretários!</text>
+  <text id="lvl05_mis02_quest00_name">V. 2 O Contador</text>
+  <text id="lvl05_mis02_quest00_text">O desonesto xerife de Santa Fe prendeu Cooper, Kate e Sam. Benjamin Morgenstern fugiu com as provas. ¡Encontre-o e recupere as provas!</text>
+  <text id="lvl05_mis02_quest01_name">&quot;Um pele-vermelha em Santa FeSanta Fe&quot;</text>
+  <text id="lvl05_mis02_quest01_text">De fora da cidade, Hawkeye viu Cooper, Kate e Sam sendo levados presos pelo xerife. Entre na cidade e chegue ao salão moeda dourada para avisar Doc e Sanchez. ¡Não deixe nenhum cidadão de Santa Fé ver Hawkeye!</text>
+  <text id="lvl05_mis02_quest02_name">&quot;¡Nos deixe sair, Doc!&quot;</text>
+  <text id="lvl05_mis02_quest02_text">Doc, arrombe o escritório do xerife em Santa Fé e libere Cooper, Kate e Sam.</text>
+  <text id="lvl05_mis02_quest03_name">&quot;Onde esta Morgenstern?&quot;</text>
+  <text id="lvl05_mis02_quest03_text">Benjamin Morgenstern, o contador de Goodman &amp; Son Railroad Company, voltou para seu escritório, que se encontra na estação de trens de Santa Fe.</text>
+  <text id="lvl05_mis03_quest00_name">V. 3 Roubo no banco</text>
+  <text id="lvl05_mis03_quest00_text">O livro caixa de Goodman, assim como as provas que Cooper e seus amigos precisam para prendê-lo, estão guardados no banco de Santa Fe. Pegue as provas e lembre-se de que o xerife não pode ser alertado.</text>
+  <text id="lvl05_mis03_quest01_name">&quot;O Gerente do Banco&quot;</text>
+  <text id="lvl05_mis03_quest01_text">Faça com que Cooper localize o gerente do banco na barbearia para obter a senha do cofre. Mas cuidado, os homems de Goodman estão procurando Cooper e seus amigos pela cidade.</text>
+  <text id="lvl05_mis03_quest02_name">&quot;O cofre&quot;</text>
+  <text id="lvl05_mis03_quest02_text">O gerente do banco não disse a Cooper a senha do cofre. Agora ele esta inconsciente e Cooper e seus amigos estão o levando ao banco para que ele abra o cofre pessoalmente. ¡Tenha cuidado para que ninguém o veja levar o diretor do banco pelas ruas e o leve ao banco!</text>
+  <text id="lvl05_mis03_quest03_name">&quot;Algo está Queimando...&quot;</text>
+  <text id="lvl05_mis03_quest03_text">Se você quiser distrair os cidadãos de Santa Fe, leve Sam até o coberto atrás da igreja e exploda o vagão de trem.</text>
+  <text id="lvl05_mis04_quest00_name">V. 4 O sequestro</text>
+  <text id="lvl05_mis04_quest00_text">Goodman sequestrou Kate e desapareceu do banco com ela. O procure!</text>
+  <text id="lvl05_mis04_quest01_name">&quot;¡Maldito sejas, Dillon!&quot;</text>
+  <text id="lvl05_mis04_quest01_text">Cooper e seus amigos estão cercados. ¡Saia do banco e os enfrente a tiro!</text>
+  <text id="lvl05_mis04_quest02_name">&quot;¡Para a Estação de Frete!&quot;</text>
+  <text id="lvl05_mis04_quest02_text">Goodman fugiu de Santa Fe com seu trem. Vá para a locomotiva, que esta na estação de frete de Goodman, ¡O persíga!</text>
+  <text id="lvl06_mis01_quest00_name">VI. 1 Indios prisioneiros</text>
+  <text id="lvl06_mis01_quest00_text">O destino de Kate e Cooper é desconhecido. Os outros querem invadir o acampamento dos bandidos na Montanha Sagrada para procurá-los. Hawkeye espera receber ajuda dos guerreiros de sua tribo, mas os bandidos de Goodman invadiram a aldea. ¡Liberte os índios!</text>
+  <text id="lvl06_mis01_quest01_name">&quot;O espírito de Montanha Sagrada&quot;</text>
+  <text id="lvl06_mis01_quest01_text">Os irmãos de Hawkeye perderam a coragem. ¡Use o grito de guerra de Hawkeye para lhes devolver a gana de lutar!</text>
+  <text id="lvl06_mis01_quest02_name">&quot;A Ira de Montanha Sagrada&quot;</text>
+  <text id="lvl06_mis01_quest02_text">Só a morte de todos os bandidos satisfará o espírito da Montanha Sagrada.</text>
+  <text id="lvl06_mis02_quest00_name">VI. 2 Um caminho sobre a passagem</text>
+  <text id="lvl06_mis02_quest00_text">Sam e Sanchez seguiram as vías do trem para encontrar o qualtel general dos bandidos, ao pé da Montanha Sagrada, mas como estão em poucos, não podem fazer muita coisa. </text>
+  <text id="lvl06_mis02_quest01_name">&quot;O encontro na passagem&quot;</text>
+  <text id="lvl06_mis02_quest01_text">Hawkeye e seus índios estão reunidos na passagem . Mas uma deslizamento bloqueou o caminho. Faça com que que Sam e Sanchez atravessem as escondidas o acampamento dos bandidos e detonem os escombros com dinamites. O barulho da cachoeira abafará o extrondo da explosão.</text>
+  <text id="lvl06_mis02_quest02_name">&quot;Os restos dos escombros&quot;</text>
+  <text id="lvl06_mis02_quest02_text">Obtenha TNT no antigo povoado índio e exploda as pedras que impedem Doc e a Hawkeye chegar ao acampamento dos bandidos.</text>
+  <text id="lvl06_mis03_quest00_name">VI. 3 A Execução</text>
+  <text id="lvl06_mis03_quest00_text">Quando desaparecer a poeira da explosão, seus heróis verão os bandidos levando Cooper ao vale, onde uma forca lhe espera. ¡Salve-o!</text>
+  <text id="lvl06_mis03_quest01_name">&quot;O antigo povoado indígena&quot;</text>
+  <text id="lvl06_mis03_quest01_text">A explosão de Sam foi notada pelos homens de Goodman. Escondidos nas ruinas do antigo povoado indígena, impedem que os heróis cheguem a forca. Faça com que Doc, Sam e Sanchez abra caminho para a ilha onde Cooper esta sendo mantido.</text>
+  <text id="lvl06_mis03_quest02_name">&quot;A libertação de Cooper&quot;</text>
+  <text id="lvl06_mis03_quest02_text">¡O tempo esta se esgotando! Quando Doc, Sam e Sanchez chegarem a ilha, Cooper ja estará esperando na forca. Liberte-o, mas cuide-se para não ser descoberto antes do tempo, ¡Ou Cooper pagará com a vida!</text>
+  <text id="lvl06_mis03_quest03_name">&quot;Saida da ilha&quot;</text>
+  <text id="lvl06_mis03_quest03_text">¡Deixe a Ilha com seus Heróis!</text>
+  <text id="lvl06_mis04_quest00_name">VI. 4 A Vingança de Cooper</text>
+  <text id="lvl06_mis04_quest00_text">¡Cooper é finalmente livre! E agora quer ter uma conversa séria com Goodman. ¡Invada o acampamento dos bandidos!</text>
+  <text id="lvl06_mis04_quest01_name">&quot;A liberação de Kate&quot;</text>
+
+  <text id="lvl06_mis04_quest01_text">Kate ainda está nas mãos de Goodman. Se ele for atacado, ele não hesitará matá-la, Assim você terá que ser rápido se você tem a intenção da salvá-la. ¡Acabe com Goodman e seus homens e liberte-a!</text>
+
+  <text id="MISSIONNAME_M01_SANTAFENIGHT">Santa Fe</text>
+
+  <text id="MISSIONNAME_M02_EAGLES_NEST">O Ninho de águia</text>
+
+  <text id="MISSIONNAME_M03_BIG_CANYON">Olho da agulha</text>
+
+  <text id="MISSIONNAME_M04_FORT">Forte Wingate</text>
+
+  <text id="MISSIONNAME_M05_SANTA_FE">Santa Fe</text>
+
+  <text id="MISSIONNAME_M06_SACRED_MOUNTAIN">A Montanha Sagrada</text>
+
+  <text id="MISSION_COMPLETE_TXT">Missão completa!</text>
+
+  <text id="QUEST_PREVIEW_IMAGE_TEXT">Completado</text>
+
+</resources>

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources SYSTEM "resources.dtd">
+<resources lang="en" name="Dialogs_M06.en">
+
+<!--
+File created: 06:03:02, 14:00:51
+UNIQUE_XML_EXPORT_NUMBER: 535
+Export initiated by: nbongaerts
+-->
+
+
+  <level id="LV_06">
+    <dialog id="lv06_cs010">
+      <text id="lv06_0010_cs010_ln010" actor="John Cooper" mood="neutral" system="lv06_0010_cs010_ln010.wav">Vamos, mais rápido! ¡Em um minuto estarão aquí!</text>
+      <text id="lv06_0020_cs010_ln020" actor="John Cooper" mood="neutral" system="lv06_0020_cs010_ln020.wav">Mais rápido!</text>
+      <text id="lv06_0030_cs010_ln030" actor="John Cooper" mood="neutral" system="lv06_0030_cs010_ln030.wav">Pare!</text>
+      <text id="lv06_0040_cs010_ln040" actor="John Cooper" mood="neutral" system="lv06_0040_cs010_ln040.wav">Maldição!</text>
+      <text id="lv06_0050_cs010_ln050" actor="John Cooper" mood="neutral" system="lv06_0050_cs010_ln050.wav">Maldição!</text>
+      <text id="lv06_0300_cs010_ln300" actor="27mer1" mood="neutral" system="lv06_0300_cs010_ln300.wav">Hmmm. O que temos aqui?</text>
+      <text id="lv06_0400_cs010_ln400" actor="Hawkeye" mood="neutral" system="lv06_0400_cs010_ln400.wav">O lugar que vivem os irmãos de Hawkeye fica atrás desse precipício.</text>
+      <text id="lv06_0410_cs010_ln410" actor="Hawkeye" mood="neutral" system="lv06_0410_cs010_ln410.wav">Washakie!</text>
+      <text id="lv06_0420_cs010_ln420" actor="32wwo1" mood="neutral" system="lv06_0420_cs010_ln420.wav">Hawk... Hawkeye...</text>
+      <text id="lv06_0430_cs010_ln430" actor="Hawkeye" mood="neutral" system="lv06_0430_cs010_ln430.wav">Washakie, meu irmão!</text>
+      <text id="lv06_0440_cs010_ln440" actor="Hawkeye" mood="neutral" system="lv06_0440_cs010_ln440.wav">Quem lhe fez isso Washakie?</text>
+      <text id="lv06_0450_cs010_ln450" actor="32wwo1" mood="neutral" system="lv06_0450_cs010_ln450.wav">Os... Os cara pálidas... Hawkeye... Eles... Eles capturaram nossos irmãos e irmãs.</text>
+      <text id="lv06_0460_cs010_ln460" actor="Hawkeye" mood="neutral" system="lv06_0460_cs010_ln460.wav">O que disse, irmão?</text>
+      <text id="lv06_0470_cs010_ln470" actor="32wwo1" mood="neutral" system="lv06_0470_cs010_ln470.wav">Mulheres e crianças... Hawkeye! Eles matarão os guerreiros da tribo que forem a luta.</text>
+      <text id="lv06_0480_cs010_ln480" actor="Hawkeye" mood="neutral" system="lv06_0480_cs010_ln480.wav">Hawkeye os deterá!</text>
+    </dialog>
+
+    <dialog id="lv06_cs020">
+      <text id="lv06_0600_cs020_ln010" actor="Doc McCoy" mood="neutral" system="lv06_0600_cs020_ln010.wav">Grrrr!</text>
+      <text id="lv06_0610_cs020_ln020" actor="Hawkeye" mood="neutral" system="lv06_0610_cs020_ln020.wav">A decisão está tomada. Meus irmãos viajarão a caminho da guerra conosco. </text>
+      <text id="lv06_0620_cs020_ln030" actor="Doc McCoy" mood="neutral" system="lv06_0620_cs020_ln030.wav">Então, vamos daqui.</text>
+      <text id="lv06_0630_cs020_ln040" actor="Sanchez" mood="neutral" system="lv06_0630_cs020_ln040.wav">Bom, aqui estamos. E agora que fazemos?</text>
+      <text id="lv06_0640_cs020_ln050" actor="Sam" mood="neutral" system="lv06_0640_cs020_ln050.wav">Deve haver dinamite. Dêem uma olhada ao redor!</text>
+      <text id="lv06_0650_cs020_ln060" actor="Sanchez" mood="neutral" system="lv06_0650_cs020_ln060.wav">A dinamite é boa. E depois?</text>
+      <text id="lv06_0660_cs020_ln070" actor="Sam" mood="neutral" system="lv06_0660_cs020_ln070.wav">Depois explodiremos as estradas. Desta vez Goodman não poderá escapar de nós!</text>
+      <text id="lv06_0670_cs020_ln080" actor="Sanchez" mood="neutral" system="lv06_0670_cs020_ln080.wav">Um bom plano, Sam!</text>
+      <text id="lv06_0680_cs020_ln090" actor="Sam" mood="neutral" system="lv06_0680_cs020_ln090.wav">Cof...</text>
+      <text id="lv06_0690_cs020_ln100" actor="Hawkeye" mood="neutral" system="lv06_0690_cs020_ln100.wav">O caminho está bloqueado!</text>
+      <text id="lv06_0700_cs020_ln110" actor="Doc McCoy" mood="neutral" system="lv06_0700_cs020_ln110.wav">Grrrr!</text>
+      <text id="lv06_0710_cs020_ln120" actor="Hawkeye" mood="neutral" system="lv06_0710_cs020_ln120.wav">O que vê olhos de cara palida?</text>
+      <text id="lv06_0720_cs020_ln130" actor="Doc McCoy" mood="neutral" system="lv06_0720_cs020_ln130.wav">Grrrr!</text>
+      <text id="lv06_0730_cs020_ln140" actor="Doc McCoy" mood="neutral" system="lv06_0730_cs020_ln140.wav">Hm. Sam e Sánchez. Nós temos que lhe fazer um sinal. </text>
+      <text id="lv06_0740_cs020_ln150" actor="Hawkeye" mood="neutral" system="lv06_0740_cs020_ln150.wav">Auuuuuuu!</text>
+      <text id="lv06_0750_cs020_ln160" actor="Sam" mood="neutral" system="lv06_0750_cs020_ln160.wav">Espera, Sánchez! O que foi isso?</text>
+      <text id="lv06_0790_cs020_ln200" actor="Sam" mood="neutral" system="lv06_0790_cs020_ln200.wav">Lá em cima! Doc e Hawkeye! Espere... maldição, os escombros da avalanche estão bloqueando a estrada.</text>
+      <text id="lv06_0800_cs020_ln210" actor="Sanchez" mood="neutral" system="lv06_0800_cs020_ln210.wav">Bom, então nós iremos até eles.</text>
+    </dialog>
+
+    <dialog id="lv06_cs030">
+      <text id="lv06_1100_cs030_ln010" actor="Doc McCoy" mood="neutral" system="lv06_1100_cs030_ln010.wav">Já era hora!</text>
+      <text id="lv06_1110_cs030_ln020" actor="Doc McCoy" mood="neutral" system="lv06_1110_cs030_ln020.wav">Maldição! Eles querem pendurar o John!</text>
+      <text id="lv06_1120_cs030_ln030" actor="Doc McCoy" mood="neutral" system="lv06_1120_cs030_ln030.wav">Nós ainda temos algum tempo!</text>
+      <text id="lv06_1130_cs030_ln040" actor="Doc McCoy" mood="neutral" system="lv06_1130_cs030_ln040.wav">Temos que fazer algo!</text>
+      <text id="lv06_1140_cs030_ln050" actor="Sanchez" mood="neutral" system="lv06_1140_cs030_ln050.wav">Vamos ali embaixo! Atacaremos dali!</text>
+      <text id="lv06_1150_cs030_ln060" actor="Hawkeye" mood="neutral" system="lv06_1150_cs030_ln060.wav">Hawkeye e seus irmãos esperem atrás das rochas. Quando nós liberarmos meus amigos, nós atacaremos em duas frentes.</text>
+      <text id="lv06_1160_cs030_ln070" actor="Doc McCoy" mood="neutral" system="lv06_1160_cs030_ln070.wav">Grrrr!</text>
+    </dialog>
+
+    <dialog id="lv06_cs040">
+      <text id="lv06_1500_cs040_ln010" actor="08ban2" mood="neutral" system="lv06_1500_cs040_ln010.wav">Mmmf...</text>
+      <text id="lv06_1510_cs040_ln020" actor="09ban3" mood="neutral" system="lv06_1510_cs040_ln020.wav">Pup, pup, pup...</text>
+      <text id="lv06_1520_cs040_ln030" actor="Hawkeye" mood="neutral" system="lv06_1520_cs040_ln030.wav">Juaaa!</text>
+      <text id="lv06_1530_cs040_ln040" actor="09ban3" mood="neutral" system="lv06_1530_cs040_ln040.wav">Mmmf...</text>
+      <text id="lv06_1540_cs040_ln050" actor="John Cooper" mood="neutral" system="lv06_1540_cs040_ln050.wav">Seus irmãos estão preparados?</text>
+      <text id="lv06_1550_cs040_ln060" actor="Hawkeye" mood="neutral" system="lv06_1550_cs040_ln060.wav">Jau! Os guerreiros da tribo dos Lobos Brancos lutarão a seu lado.</text>
+      <text id="lv06_1560_cs040_ln070" actor="John Cooper" mood="neutral" system="lv06_1560_cs040_ln070.wav">Bom, então em marcha.</text>
+      <text id="lv06_1570_cs040_ln080" actor="32wwo1" mood="neutral" system="lv06_1570_cs040_ln080.wav">Ji-Ja</text>
+      <text id="lv06_1580_cs040_ln090" actor="33wwo2" mood="neutral" system="lv06_1580_cs040_ln090.wav">Ji-Ja</text>
+      <text id="lv06_1590_cs040_ln100" actor="01good" mood="neutral" system="lv06_1590_cs040_ln100.wav">Venha comigo, senhorita O'Hara, gostaria de lhe mostrar algo.</text>
+      <text id="lv06_1600_cs040_ln110" actor="01good" mood="neutral" system="lv06_1600_cs040_ln110.wav">Um lugar maravilhoso, não acredita?</text>
+      <text id="lv06_1610_cs040_ln120" actor="01good" mood="neutral" system="lv06_1610_cs040_ln120.wav">Desfrute da vista, senhorita O'Hara! tens um assento na sacada para ver como seus amigos morrem!</text>
+      <text id="lv06_1620_cs040_ln130" actor="01good" mood="neutral" system="lv06_1620_cs040_ln130.wav">Ja, ja, ja.</text>
+    </dialog>
+
+    <dialog id="lv06_dg010">
+      <text id="lv06_0490_dg010_ln010" actor="32wwo1" mood="neutral" system="lv06_0490_dg010_ln010.wav">Washakie quer agradecer ao cara pálida com olhar escuro. O coração dele brilha claramente à noite!</text>
+      <text id="lv06_0500_dg010_ln020" actor="Doc McCoy" mood="neutral" system="lv06_0500_dg010_ln020.wav">Grrrr!</text>
+    </dialog>
+
+    <dialog id="lv06_dg030">
+      <text id="lv06_0900_dg030_ln010" actor="07ban1" mood="neutral" system="lv06_0900_dg030_ln010.wav">Face de anjo diz...</text>
+      <text id="lv06_0910_dg030_ln020" actor="11ban5" mood="neutral" system="lv06_0910_dg030_ln020.wav">Maldição! Não é bom que você chame de Face de Anjo o Sr. Goodman quando tiver trabalhadores por perto! Eles poderiam ouví-lo!</text>
+      <text id="lv06_0912_dg030_ln022" actor="07ban1" mood="neutral" system="lv06_0912_dg030_ln022.wav">Me desculpe! Sem problemas, O Sr. Goodman disse que nós devemos vigiar o Butcher. Ele quer falar com ele assim que chegar ao acampamento.</text>
+      <text id="lv06_0915_dg030_ln025" actor="11ban5" mood="neutral" system="lv06_0915_dg030_ln025.wav">Bom. Eu o enviarei a Twinnings se eu o ver.</text>
+    </dialog>
+
+    <dialog id="lv06_dg040">
+      <text id="lv06_0920_dg040_ln010" actor="42girl" mood="neutral" system="lv06_0920_dg040_ln010.wav">Hiiiiiii!</text>
+      <text id="lv06_0930_dg040_ln020" actor="07ban1" mood="neutral" system="lv06_0930_dg040_ln020.wav">Não sejas assim, querida!</text>
+      <text id="lv06_0940_dg040_ln030" actor="42girl" mood="neutral" system="lv06_0940_dg040_ln030.wav">Mantenha suas mãos longe de mim, seu porco.</text>
+      <text id="lv06_0950_dg040_ln040" actor="07ban1" mood="neutral" system="lv06_0950_dg040_ln040.wav">Voce esta tão gostosa hoje!</text>
+      <text id="lv06_0960_dg040_ln050" actor="42girl" mood="neutral" system="lv06_0960_dg040_ln050.wav">Afaste-se de mim!</text>
+      <text id="lv06_0970_dg040_ln060" actor="07ban1" mood="neutral" system="lv06_0970_dg040_ln060.wav">Aaaaaah!</text>
+      <text id="lv06_0980_dg040_ln070" actor="42girl" mood="neutral" system="lv06_0980_dg040_ln070.wav">Ha, ha, ha.</text>
+      <text id="lv06_0990_dg040_ln080" actor="52sew1" mood="neutral" system="lv06_0990_dg040_ln080.wav">Ha, ha, ha.</text>
+      <text id="lv06_1000_dg040_ln090" actor="07ban1" mood="neutral" system="lv06_1000_dg040_ln090.wav">Prfff.Blurgh.</text>
+      <text id="lv06_1010_dg040_ln100" actor="52sew1" mood="neutral" system="lv06_1010_dg040_ln100.wav">Isso é o que acontece quando você não pode controlar suas mãos.</text>
+      <text id="lv06_1020_dg040_ln110" actor="42girl" mood="neutral" system="lv06_1020_dg040_ln110.wav">Agora chega saia daquí! Nos deixe fazer nosso trabalho!</text>
+    </dialog>
+
+    <dialog id="lv06_dg045">
+      <text id="lv06_1300_dg045_ln010" actor="Sam" mood="neutral" system="lv06_1300_dg045_ln010.wav">Não! Isto é demais para mim! Antes precisamos de Doc e dos índios.</text> 
+      <text id="lv06_1310_dg045_ln020" actor="Sanchez" mood="neutral" system="lv06_1310_dg045_ln020.wav">Oh! Nada mal essa multidão! Eu poderia os levar, uma pequena pergunta, não seria um pouco mais fácil... com os índios.</text>
+    </dialog>
+
+    <dialog id="lv06_dg050">
+      <text id="lv06_1400_dg050_ln010" actor="Doc McCoy" mood="neutral" system="lv06_1400_dg050_ln010.wav">Maldição! Me sentiria melhor se John estivesse aquí.</text>
+      <text id="lv06_1410_dg050_ln020" actor="Sam" mood="neutral" system="lv06_1410_dg050_ln020.wav">Que merda...! Nós esquecemos de liberar o John!</text>
+      <text id="lv06_1420_dg050_ln030" actor="Sanchez" mood="neutral" system="lv06_1420_dg050_ln030.wav">Que merda estamos fazendo aqui? E onde está John? Ele é que tem um plano!</text>
+      <text id="lv06_1430_dg050_ln040" actor="Hawkeye" mood="neutral" system="lv06_1430_dg050_ln040.wav">O irmão cara pálida de Hawkeye ainda esta preso! Hawkeye não pode decepcioná-lo!</text>
+    </dialog>
+
+    <dialog id="lv06_dg060">
+      <text id="lv06_1700_dg060_ln010" actor="01good" mood="neutral" system="lv06_1700_dg060_ln010.wav">Os beijos da encantadora senhorita O'Hara são quentes! Apresse se Sr. Cooper, se não queimarei minha lingua!
+Ha, ha, ha.</text>
+      <text id="lv06_1710_dg060_ln020" actor="01good" mood="neutral" system="lv06_1710_dg060_ln020.wav">A senhorita O'Hara oferece um beijo ao vencedor! Eu creio que quero um agora mesmo! Ha, ha, ha.</text>
+      <text id="lv06_1720_dg060_ln030" actor="01good" mood="neutral" system="lv06_1720_dg060_ln030.wav">Teu irmão gritou como um porco quando meus homens o mataram! Ha, ha, ha.</text>
+    </dialog>
+
+    <dialog id="lv06_dg070">
+      <text id="lv06_1730_dg070_ln010" actor="01good" mood="neutral" system="lv06_1730_dg070_ln010.wav">Fora senão a vossa encantadora senhorita pagará com a vida!</text>
+    </dialog>
+
+  </level>
+
+</resources>
